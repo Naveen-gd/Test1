@@ -1,0 +1,16 @@
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\ExtensionsLib\bin\Debug\ExtensionsLib.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\ExtensionsLib\bin\Debug\ExtensionsLib.pdb
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\ExtensionsLib\obj\Debug\ExtensionsLib.csproj.AssemblyReference.cache
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\ExtensionsLib\obj\Debug\Extensions.VersionForm.resources
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\ExtensionsLib\obj\Debug\ExtensionsLib.csproj.GenerateResource.cache
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\ExtensionsLib\obj\Debug\ExtensionsLib.csproj.CoreCompileInputs.cache
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\ExtensionsLib\obj\Debug\ExtensionsLib.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\ExtensionsLib\obj\Debug\ExtensionsLib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\ExtensionsLib\bin\Debug\ExtensionsLib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\ExtensionsLib\bin\Debug\ExtensionsLib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\ExtensionsLib\obj\Debug\ExtensionsLib.csproj.AssemblyReference.cache
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\ExtensionsLib\obj\Debug\Extensions.VersionForm.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\ExtensionsLib\obj\Debug\ExtensionsLib.csproj.GenerateResource.cache
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\ExtensionsLib\obj\Debug\ExtensionsLib.csproj.CoreCompileInputs.cache
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\ExtensionsLib\obj\Debug\ExtensionsLib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\ExtensionsLib\obj\Debug\ExtensionsLib.pdb

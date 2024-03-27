@@ -1,0 +1,14 @@
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\Device_52295_Lib\bin\Release\Device_52295_Lib.dll
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\Device_52295_Lib\bin\Release\Device_52295_Lib.pdb
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\Device_52295_Lib\bin\Release\Can_Comm_Lib.dll
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\Device_52295_Lib\bin\Release\vxlapi_NET.dll
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\Device_52295_Lib\bin\Release\PCANBasic_NET.dll
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\Device_52295_Lib\bin\Release\Can_Comm_Lib.pdb
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\Device_52295_Lib\bin\Release\PCANBasic_NET.pdb
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\Device_52295_Lib\obj\Release\Device_52295_Lib.csproj.AssemblyReference.cache
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\Device_52295_Lib\obj\Release\Device_52295_Lib.MemForm.resources
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\Device_52295_Lib\obj\Release\Device_52295_Lib.csproj.GenerateResource.cache
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\Device_52295_Lib\obj\Release\Device_52295_Lib.csproj.CoreCompileInputs.cache
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\Device_52295_Lib\obj\Release\Device_5.E1BA3D32.Up2Date
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\Device_52295_Lib\obj\Release\Device_52295_Lib.dll
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\Device_52295_Lib\obj\Release\Device_52295_Lib.pdb

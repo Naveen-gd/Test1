@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_can_tool\\view\\commsettingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|solutionrelative:52295_can_tool\\view\\commsettingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5684B9E2-49EB-4272-BE0A-F80B3FC5701F}|Device_52295_Lib\\Device_52295_Lib.csproj|D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\device_52295_lib\\model\\devicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5684B9E2-49EB-4272-BE0A-F80B3FC5701F}|Device_52295_Lib\\Device_52295_Lib.csproj|solutionrelative:device_52295_lib\\model\\devicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|52295_CAN_Tool||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55855CEC-131F-43A6-8AA9-94649F63B66E}|52295_EEPROM_Tool\\52295_EEPROM_Tool.csproj|d:\\elmos_sourcecodeworkspace\\95\\52295_can_tool\\52295_eeprom_tool\\view\\eepromform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55855CEC-131F-43A6-8AA9-94649F63B66E}|52295_EEPROM_Tool\\52295_EEPROM_Tool.csproj|solutionrelative:52295_eeprom_tool\\view\\eepromform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_can_tool\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|solutionrelative:52295_can_tool\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_can_tool\\view\\commsettingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|solutionrelative:52295_can_tool\\view\\commsettingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_can_tool\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|solutionrelative:52295_can_tool\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|d:\\elmos_sourcecodeworkspace\\95\\52295_can_tool\\52295_can_tool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|solutionrelative:52295_can_tool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_can_tool\\view\\animationhelpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|solutionrelative:52295_can_tool\\view\\animationhelpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_can_tool\\view\\animationhelpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|solutionrelative:52295_can_tool\\view\\animationhelpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_can_tool\\view\\versionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|solutionrelative:52295_can_tool\\view\\versionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_can_tool\\view\\versionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|solutionrelative:52295_can_tool\\view\\versionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_can_tool\\view\\quickprogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|solutionrelative:52295_can_tool\\view\\quickprogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55855CEC-131F-43A6-8AA9-94649F63B66E}|52295_EEPROM_Tool\\52295_EEPROM_Tool.csproj|D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_eeprom_tool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55855CEC-131F-43A6-8AA9-94649F63B66E}|52295_EEPROM_Tool\\52295_EEPROM_Tool.csproj|solutionrelative:52295_eeprom_tool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52295_CAN_Tool\\52295_CAN_Tool.csproj|d:\\elmos_sourcecodeworkspace\\95\\52295_can_tool\\52295_can_tool\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EEPromForm.cs [Design]",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_EEPROM_Tool\\view\\EEPromForm.cs",
+              "RelativeDocumentMoniker": "52295_EEPROM_Tool\\view\\EEPromForm.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_EEPROM_Tool\\view\\EEPromForm.cs [Design]",
+              "RelativeToolTip": "52295_EEPROM_Tool\\view\\EEPromForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:08:21.345Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "52295_CAN_Tool",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\52295_CAN_Tool.csproj",
+              "RelativeDocumentMoniker": "52295_CAN_Tool\\52295_CAN_Tool.csproj",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\52295_CAN_Tool.csproj",
+              "RelativeToolTip": "52295_CAN_Tool\\52295_CAN_Tool.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-12T06:54:12.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeviceType.cs",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\Device_52295_Lib\\model\\DeviceType.cs",
+              "RelativeDocumentMoniker": "Device_52295_Lib\\model\\DeviceType.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\Device_52295_Lib\\model\\DeviceType.cs",
+              "RelativeToolTip": "Device_52295_Lib\\model\\DeviceType.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAApwBYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T05:45:32.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommSettingsForm.cs",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\view\\CommSettingsForm.cs",
+              "RelativeDocumentMoniker": "52295_CAN_Tool\\view\\CommSettingsForm.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\view\\CommSettingsForm.cs",
+              "RelativeToolTip": "52295_CAN_Tool\\view\\CommSettingsForm.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADgvyUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T04:57:55.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommSettingsForm.cs [Design]",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\view\\CommSettingsForm.cs",
+              "RelativeDocumentMoniker": "52295_CAN_Tool\\view\\CommSettingsForm.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\view\\CommSettingsForm.cs [Design]",
+              "RelativeToolTip": "52295_CAN_Tool\\view\\CommSettingsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T04:57:53.648Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\view\\MainForm.cs",
+              "RelativeDocumentMoniker": "52295_CAN_Tool\\view\\MainForm.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\view\\MainForm.cs",
+              "RelativeToolTip": "52295_CAN_Tool\\view\\MainForm.cs",
+              "ViewState": "AQIAAIcBAAAAAAAAAAASwJMBAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T04:27:55.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\Program.cs",
+              "RelativeDocumentMoniker": "52295_CAN_Tool\\Program.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\Program.cs",
+              "RelativeToolTip": "52295_CAN_Tool\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T04:30:13.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\view\\MainForm.cs",
+              "RelativeDocumentMoniker": "52295_CAN_Tool\\view\\MainForm.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\view\\MainForm.cs [Design]",
+              "RelativeToolTip": "52295_CAN_Tool\\view\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T04:27:37.518Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnimationHelpForm.cs",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\view\\AnimationHelpForm.cs",
+              "RelativeDocumentMoniker": "52295_CAN_Tool\\view\\AnimationHelpForm.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\view\\AnimationHelpForm.cs",
+              "RelativeToolTip": "52295_CAN_Tool\\view\\AnimationHelpForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T04:57:48.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnimationHelpForm.cs [Design]",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\view\\AnimationHelpForm.cs",
+              "RelativeDocumentMoniker": "52295_CAN_Tool\\view\\AnimationHelpForm.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\view\\AnimationHelpForm.cs [Design]",
+              "RelativeToolTip": "52295_CAN_Tool\\view\\AnimationHelpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T04:57:46.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VersionForm.cs",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\view\\VersionForm.cs",
+              "RelativeDocumentMoniker": "52295_CAN_Tool\\view\\VersionForm.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\view\\VersionForm.cs",
+              "RelativeToolTip": "52295_CAN_Tool\\view\\VersionForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T04:57:37.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VersionForm.cs [Design]",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\view\\VersionForm.cs",
+              "RelativeDocumentMoniker": "52295_CAN_Tool\\view\\VersionForm.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\view\\VersionForm.cs [Design]",
+              "RelativeToolTip": "52295_CAN_Tool\\view\\VersionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T04:57:35.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuickProgForm.cs [Design]",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\view\\QuickProgForm.cs",
+              "RelativeDocumentMoniker": "52295_CAN_Tool\\view\\QuickProgForm.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_CAN_Tool\\view\\QuickProgForm.cs [Design]",
+              "RelativeToolTip": "52295_CAN_Tool\\view\\QuickProgForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T04:57:30.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_EEPROM_Tool\\Program.cs",
+              "RelativeDocumentMoniker": "52295_EEPROM_Tool\\Program.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\95\\52295_CAN_Tool\\52295_EEPROM_Tool\\Program.cs",
+              "RelativeToolTip": "52295_EEPROM_Tool\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T04:30:06.797Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

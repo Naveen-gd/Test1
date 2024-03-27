@@ -1,0 +1,1573 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files\microsoft visual studio\2022\professional\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="17.0">
+ <Namespaces>
+  <Namespace Name="_52294_UCAN_Tool.view">
+   <Messages>
+    <Message TypeName="AvoidNamespacesWithFewTypes" Category="Microsoft.Design" CheckId="CA1020" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+     <Issue Certainty="50" Level="Warning">Consider merging the types defined in '_52294_UCAN_Tool.view' with another namespace.</Issue>
+    </Message>
+   </Messages>
+  </Namespace>
+  <Namespace Name="ELMOS_521._38_UART_Eval.Helper">
+   <Messages>
+    <Message TypeName="AvoidNamespacesWithFewTypes" Category="Microsoft.Design" CheckId="CA1020" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+     <Issue Certainty="50" Level="Warning">Consider merging the types defined in 'ELMOS_521._38_UART_Eval.Helper' with another namespace.</Issue>
+    </Message>
+   </Messages>
+  </Namespace>
+ </Namespaces>
+ <Targets>
+  <Target Name="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\ELMOS 521.38 UART Eval.dll">
+   <Modules>
+    <Module Name="elmos 521.38 uart eval.dll">
+     <Messages>
+      <Message TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+       <Issue Name="NoStrongName" Certainty="95" Level="CriticalError">Sign 'ELMOS 521.38 UART Eval.dll' with a strong name key.</Issue>
+      </Message>
+      <Message TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+       <Issue Certainty="95" Level="Error">Mark 'ELMOS 521.38 UART Eval.dll' with CLSCompliant(true) because it exposes externally visible types.</Issue>
+      </Message>
+      <Message TypeName="MarkAssembliesWithNeutralResourcesLanguage" Category="Microsoft.Performance" CheckId="CA1824" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+       <Issue Certainty="95" Level="Warning">Because assembly 'ELMOS 521.38 UART Eval.dll' contains a ResX-based resource file, mark it with the NeutralResourcesLanguage attribute, specifying the language of the resources within the assembly. This could improve lookup performance the first time a resource is retrieved.</Issue>
+      </Message>
+     </Messages>
+     <Namespaces>
+      <Namespace Name="_52294_UCAN_Tool.view">
+       <Types>
+        <Type Name="ExpertComSettingsForm" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#InitializeComponent()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="NumWords" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="ExpertComSettingsForm.Designer.cs" Line="848">Correct the spelling of the unrecognized token 'NumWords' in the literal '"NumWords:"'.</Issue>
+            </Message>
+            <Message Id="Tbit" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="ExpertComSettingsForm.Designer.cs" Line="793">Correct the spelling of the unrecognized token 'Tbit' in the literal '"Tbit"'.</Issue>
+            </Message>
+            <Message Id="ms" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="ExpertComSettingsForm.Designer.cs" Line="157">Correct the spelling of the unrecognized token 'ms' in the literal '"ms"'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="ELMOS_521._38_UART_Eval">
+       <Types>
+        <Type Name="AddDevice" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Dispose(System.Boolean)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="chip" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\AddDevices" File="AddDevice.Designer.cs" Line="15">'AddDevice' contains field 'AddDevice.chip' that is of IDisposable type: 'E52138ChipAPI'. Change the Dispose method on 'AddDevice' to call Dispose or Close on this field.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="ApplicationController" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#.ctor(ELMOS_521._38_UART_Eval.ApplicationData)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="Validate arguments of public methods" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="ApplicationController.cs" Line="20">In externally visible method 'ApplicationController.ApplicationController(ApplicationData)', validate parameter 'data' before using it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#SetupFileLogger()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="ApplicationController.cs" Line="73">In method 'ApplicationController.SetupFileLogger()', call System.IDisposable.Dispose on object 'outstream' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="DoNotCatchGeneralExceptionTypes" Category="Microsoft.Design" CheckId="CA1031" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="CriticalError" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="ApplicationController.cs" Line="76">Modify 'ApplicationController.SetupFileLogger()' to catch a more specific exception than 'object' or rethrow the exception.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="AutoAddressing" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#DeviceAdded(System.Object,ELMOS_521._38_UART_Eval.E52138AutoAddressingMaster+DeviceAddedEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\AddDevices" File="AutoAddressing.cs" Line="64">In method 'AutoAddressing.DeviceAdded(object, E52138AutoAddressingMaster.DeviceAddedEventArgs)', object 'chip' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'chip' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message Id="System.String.Format(System.String,System.Object)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\AddDevices" File="AutoAddressing.cs" Line="68">Because the behavior of 'string.Format(string, object)' could vary based on the current user's locale settings, replace this call in 'AutoAddressing.DeviceAdded(object, E52138AutoAddressingMaster.DeviceAddedEventArgs)' with a call to 'string.Format(IFormatProvider, string, params object[])'. If the result of 'string.Format(IFormatProvider, string, params object[])' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="AutoAddressingStateMachine" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#SendSequenceId()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="SendID" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\AddDevices" File="E52138AutoAddressingMaster.cs" Line="63">Correct the spelling of the unrecognized token 'SendID' in the literal '"SendID"'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="CommunicationStateMachine" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Interval(System.Double)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0#" TypeName="ParameterNamesShouldNotMatchMemberNames" Category="Microsoft.Naming" CheckId="CA1719" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="60">Change either member or parameter name 'interval' so that one differs from the other.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="DeviceInformationStateMachine" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#IsMultiPlexingActive()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="MultiPlexing" TypeName="CompoundWordsShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1702" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Name="MemberShouldBeDiscreteTerm" Certainty="80" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="182">The compound word 'MultiPlexing' in member name 'DeviceInformationStateMachine.IsMultiPlexingActive()' exists as a discrete term. If your usage is intended to be single word, case it as 'Multiplexing' or strip the first token entirely if it represents any sort of Hungarian notation.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="E52138AutoAddressingMaster" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#Dispose()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="CallGCSuppressFinalizeCorrectly" Category="Microsoft.Usage" CheckId="CA1816" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="NotCalledWithFinalizer" Certainty="75" Level="CriticalWarning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\AddDevices" File="E52138AutoAddressingMaster.cs" Line="141">Change 'E52138AutoAddressingMaster.Dispose()' to call 'GC.SuppressFinalize(object)'. This will prevent unnecessary finalization of the object once it has been disposed and it has fallen out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Finalize()" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="DoNotCatchGeneralExceptionTypes" Category="Microsoft.Design" CheckId="CA1031" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="CriticalError" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\AddDevices" File="E52138AutoAddressingMaster.cs" Line="121">Modify 'E52138AutoAddressingMaster.~E52138AutoAddressingMaster()' to catch a more specific exception than 'object' or rethrow the exception.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="E52138ChipAPI" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="AvoidExcessiveClassCoupling" Category="Microsoft.Maintainability" CheckId="CA1506" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+           <Issue Name="Type" Certainty="75" Level="Warning">'E52138ChipAPI' is coupled with 83 different types from 14 different namespaces. Rewrite or refactor this class's methods to decrease its class coupling, or consider moving some of the class's methods to some of the other types it is tightly coupled with. A class coupling above 95 indicates poor maintainability, a class coupling between 95 and 80 indicates moderate maintainability, and a class coupling below 80 indicates good maintainability.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#.ctor(ELMOS_521._38_UART_Eval.ApplicationData,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="Validate arguments of public methods" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="410">In externally visible method 'E52138ChipAPI.E52138ChipAPI(ApplicationData, int)', validate parameter 'data' before using it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#BoostEnable" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="PropertiesShouldNotReturnArrays" Category="Microsoft.Performance" CheckId="CA1819" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="275">Change 'E52138ChipAPI.BoostEnable' to return a collection or make it a method.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#BoostStatus" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="PropertiesShouldNotReturnArrays" Category="Microsoft.Performance" CheckId="CA1819" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="268">Change 'E52138ChipAPI.BoostStatus' to return a collection or make it a method.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#DeviceAddress" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="PropertyNamesShouldNotMatchGetMethods" Category="Microsoft.Naming" CheckId="CA1721" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Name="SameType" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="361">The property name 'E52138ChipAPI.DeviceAddress' is confusing given the existence of method 'E52138ChipAPI.GetDeviceAddress()'. Rename or remove one of these members.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Dispose()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="CallGCSuppressFinalizeCorrectly" Category="Microsoft.Usage" CheckId="CA1816" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="NotCalledWithFinalizer" Certainty="75" Level="CriticalWarning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="478">Change 'E52138ChipAPI.Dispose()' to call 'GC.SuppressFinalize(object)'. This will prevent unnecessary finalization of the object once it has been disposed and it has fallen out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ExportCSVErrorLog(System.IO.Stream)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="saveFileWriter" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="223">'E52138ChipAPI.ExportCSVErrorLog(Stream)' declares a variable, 'saveFileWriter', of type 'StreamWriter', which is never used or is only assigned to. Use this variable or remove it.</Issue>
+            </Message>
+            <Message Id="0" TypeName="Validate arguments of public methods" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="226">In externally visible method 'E52138ChipAPI.ExportCSVErrorLog(Stream)', validate parameter 'saveFile' before using it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Finalize()" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Name="FinalizeImplementation" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="426">Modify 'E52138ChipAPI.~E52138ChipAPI()' so that it calls Dispose(false) and then returns.</Issue>
+            </Message>
+            <Message Id="System.Int32.ToString" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="428">Because the behavior of 'int.ToString()' could vary based on the current user's locale settings, replace this call in 'E52138ChipAPI.~E52138ChipAPI()' with a call to 'int.ToString(IFormatProvider)'. If the result of 'int.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetComperatorBIST()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="AvoidExcessiveComplexity" Category="Microsoft.Maintainability" CheckId="CA1502" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="90" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="769">'E52138ChipAPI.GetComperatorBIST()' has a cyclomatic complexity of 39. Rewrite or refactor the method to reduce complexity to 25.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetHWVersion()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="AvoidExcessiveComplexity" Category="Microsoft.Maintainability" CheckId="CA1502" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="90" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="839">'E52138ChipAPI.GetHWVersion()' has a cyclomatic complexity of 32. Rewrite or refactor the method to reduce complexity to 25.</Issue>
+            </Message>
+            <Message Id="System.Int32.ToString" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="856">Because the behavior of 'int.ToString()' could vary based on the current user's locale settings, replace this call in 'E52138ChipAPI.GetHWVersion()' with a call to 'int.ToString(IFormatProvider)'. If the result of 'int.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="861">Because the behavior of 'int.ToString()' could vary based on the current user's locale settings, replace this call in 'E52138ChipAPI.GetHWVersion()' with a call to 'int.ToString(IFormatProvider)'. If the result of 'int.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="905">Because the behavior of 'int.ToString()' could vary based on the current user's locale settings, replace this call in 'E52138ChipAPI.GetHWVersion()' with a call to 'int.ToString(IFormatProvider)'. If the result of 'int.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="905">Because the behavior of 'int.ToString()' could vary based on the current user's locale settings, replace this call in 'E52138ChipAPI.GetHWVersion()' with a call to 'int.ToString(IFormatProvider)'. If the result of 'int.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+            <Message TypeName="UsePropertiesWhereAppropriate" Category="Microsoft.Design" CheckId="CA1024" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="839">Change 'E52138ChipAPI.GetHWVersion()' to a property if appropriate.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetLEDOpen()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="openStatus" TypeName="VariableNamesShouldNotMatchFieldNames" Category="Microsoft.Maintainability" CheckId="CA1500" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="Local" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="809">'openStatus', a variable declared in 'E52138ChipAPI.GetLEDOpen()', has the same name as an instance field on the type. Change the name of one of these items.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetLEDShort()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="shortStatus" TypeName="VariableNamesShouldNotMatchFieldNames" Category="Microsoft.Maintainability" CheckId="CA1500" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="Local" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="794">'shortStatus', a variable declared in 'E52138ChipAPI.GetLEDShort()', has the same name as an instance field on the type. Change the name of one of these items.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#InitializeData()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="Body" TypeName="PreferJaggedArraysOverMultidimensional" Category="Microsoft.Performance" CheckId="CA1814" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Name="Body" Certainty="25" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="446">'E52138ChipAPI.InitializeData()' uses a multidimensional array of 'int[,]'. Replace it with a jagged array if possible.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Matrix" Kind="Field" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="Member" TypeName="PreferJaggedArraysOverMultidimensional" Category="Microsoft.Performance" CheckId="CA1814" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Certainty="25" Level="Warning">'E52138ChipAPI.Matrix' is a multidimensional array. Replace it with a jagged array if possible.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#meanOf5outof6(System.Double[])" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MarkMembersAsStatic" Category="Microsoft.Performance" CheckId="CA1822" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="707">The 'this' parameter (or 'Me' in Visual Basic) of 'E52138ChipAPI.meanOf5outof6(double[])' is never used. Mark the member as static (or Shared in Visual Basic) or use 'this'/'Me' in the method body or at least one property accessor, if appropriate.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OpenStatus" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="PropertiesShouldNotReturnArrays" Category="Microsoft.Performance" CheckId="CA1819" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="284">Change 'E52138ChipAPI.OpenStatus' to return a collection or make it a method.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#PWMValues" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="PropertiesShouldNotReturnArrays" Category="Microsoft.Performance" CheckId="CA1819" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="260">Change 'E52138ChipAPI.PWMValues' to return a collection or make it a method.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ReadVDIF(System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="vdifValidFlags" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="687">'E52138ChipAPI.ReadVDIF(int)' declares a variable, 'vdifValidFlags', of type 'List', which is never used or is only assigned to. Use this variable or remove it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#SendRaw(System.Byte[])" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="Validate arguments of public methods" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="577">In externally visible method 'E52138ChipAPI.SendRaw(byte[])', validate parameter 'payload' before using it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ShortStatus" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="PropertiesShouldNotReturnArrays" Category="Microsoft.Performance" CheckId="CA1819" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="282">Change 'E52138ChipAPI.ShortStatus' to return a collection or make it a method.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#StartFromJson(ELMOS_521._38_UART_Eval.ApplicationData)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="Validate arguments of public methods" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPIJson.cs" Line="23">In externally visible method 'E52138ChipAPI.StartFromJson(ApplicationData)', validate parameter 'data' before using it.</Issue>
+            </Message>
+            <Message Id="data" TypeName="VariableNamesShouldNotMatchFieldNames" Category="Microsoft.Maintainability" CheckId="CA1500" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="Parameter" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPIJson.cs" Line="21">'data', a parameter declared in 'E52138ChipAPI.StartFromJson(ApplicationData)', has the same name as an instance field on the type. Change the name of one of these items.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#UpdateStatusTable()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="anyOpen" TypeName="VariableNamesShouldNotMatchFieldNames" Category="Microsoft.Maintainability" CheckId="CA1500" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="Local" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="292">'anyOpen', a variable declared in 'E52138ChipAPI.UpdateStatusTable()', has the same name as an instance field on the type. Change the name of one of these items.</Issue>
+            </Message>
+            <Message Id="anyShort" TypeName="VariableNamesShouldNotMatchFieldNames" Category="Microsoft.Maintainability" CheckId="CA1500" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="Local" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="292">'anyShort', a variable declared in 'E52138ChipAPI.UpdateStatusTable()', has the same name as an instance field on the type. Change the name of one of these items.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="E52138ChipAPI+ComMode" Kind="Enum" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message Id="ComMode" TypeName="CompoundWordsShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1702" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+           <Issue Name="TypeShouldBeDiscreteTerm" Certainty="80" Level="Error">The compound word 'ComMode' in type name 'E52138ChipAPI.ComMode' exists as a discrete term. If your usage is intended to be single word, case it as 'Commode'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="E52138ChipAPI+ComperatorBISTStatusType" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="NestedTypesShouldNotBeVisible" Category="Microsoft.Design" CheckId="CA1034" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+           <Issue Certainty="90" Level="Error">Do not nest type 'E52138ChipAPI.ComperatorBISTStatusType'. Alternatively, change its accessibility so that it is not externally visible.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="E52138ChipAPI+ErrorEntry" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="NestedTypesShouldNotBeVisible" Category="Microsoft.Design" CheckId="CA1034" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+           <Issue Certainty="90" Level="Error">Do not nest type 'E52138ChipAPI.ErrorEntry'. Alternatively, change its accessibility so that it is not externally visible.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#.ctor(System.DateTime,System.String,System.Int32,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="System.Int32.ToString" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="E52138ChipAPI.cs" Line="198">Because the behavior of 'int.ToString()' could vary based on the current user's locale settings, replace this call in 'E52138ChipAPI.ErrorEntry.ErrorEntry(DateTime, string, int, string)' with a call to 'int.ToString(IFormatProvider)'. If the result of 'int.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FileLoader" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#main" Kind="Field" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUnusedPrivateFields" Category="Microsoft.Performance" CheckId="CA1823" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning">It appears that field 'FileLoader.main' is never used or is only ever assigned to. Use this field or remove it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Open()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Do not dispose objects multiple times" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="FileLoader.cs" Line="94">Object 'file' can be disposed more than once in method 'FileLoader.Open()'. To avoid generating a System.ObjectDisposedException you should not call Dispose more than one time on an object.: Lines: 94</Issue>
+            </Message>
+            <Message Id="filePath" TypeName="VariableNamesShouldNotMatchFieldNames" Category="Microsoft.Maintainability" CheckId="CA1500" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="Local" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="FileLoader.cs" Line="44">'filePath', a variable declared in 'FileLoader.Open()', has the same name as an instance field on the type. Change the name of one of these items.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Save(System.Collections.Generic.List`1&lt;ELMOS_521._38_UART_Eval.E52138ChipAPI&gt;)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotExposeGenericLists" Category="Microsoft.Design" CheckId="CA1002" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="FileLoader.cs" Line="101">Change 'List&lt;E52138ChipAPI&gt;' in 'FileLoader.Save(List&lt;E52138ChipAPI&gt;)' to use Collection&lt;T&gt;, ReadOnlyCollection&lt;T&gt; or KeyedCollection&lt;K,V&gt;</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#SaveAs(System.Collections.Generic.List`1&lt;ELMOS_521._38_UART_Eval.E52138ChipAPI&gt;)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotExposeGenericLists" Category="Microsoft.Design" CheckId="CA1002" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="FileLoader.cs" Line="116">Change 'List&lt;E52138ChipAPI&gt;' in 'FileLoader.SaveAs(List&lt;E52138ChipAPI&gt;)' to use Collection&lt;T&gt;, ReadOnlyCollection&lt;T&gt; or KeyedCollection&lt;K,V&gt;</Issue>
+            </Message>
+            <Message Id="filePath" TypeName="VariableNamesShouldNotMatchFieldNames" Category="Microsoft.Maintainability" CheckId="CA1500" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="Local" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="FileLoader.cs" Line="116">'filePath', a variable declared in 'FileLoader.SaveAs(List&lt;E52138ChipAPI&gt;)', has the same name as an instance field on the type. Change the name of one of these items.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FileLoader+ChipsAddedEventArgs" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="NestedTypesShouldNotBeVisible" Category="Microsoft.Design" CheckId="CA1034" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+           <Issue Certainty="90" Level="Error">Do not nest type 'FileLoader.ChipsAddedEventArgs'. Alternatively, change its accessibility so that it is not externally visible.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#.ctor(System.Collections.Generic.List`1&lt;ELMOS_521._38_UART_Eval.E52138ChipAPI&gt;)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotExposeGenericLists" Category="Microsoft.Design" CheckId="CA1002" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="FileLoader.cs" Line="18">Change 'List&lt;E52138ChipAPI&gt;' in 'FileLoader.ChipsAddedEventArgs.ChipsAddedEventArgs(List&lt;E52138ChipAPI&gt;)' to use Collection&lt;T&gt;, ReadOnlyCollection&lt;T&gt; or KeyedCollection&lt;K,V&gt;</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Chips" Kind="Field" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotExposeGenericLists" Category="Microsoft.Design" CheckId="CA1002" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="Error">Change 'List&lt;E52138ChipAPI&gt;' in 'FileLoader.ChipsAddedEventArgs.Chips' to use Collection&lt;T&gt;, ReadOnlyCollection&lt;T&gt; or KeyedCollection&lt;K,V&gt;</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FileLoader+FileStructure" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="NestedTypesShouldNotBeVisible" Category="Microsoft.Design" CheckId="CA1034" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+           <Issue Certainty="90" Level="Error">Do not nest type 'FileLoader.FileStructure'. Alternatively, change its accessibility so that it is not externally visible.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#Devices" Kind="Field" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotExposeGenericLists" Category="Microsoft.Design" CheckId="CA1002" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="Error">Change 'List&lt;E52138ChipAPI&gt;' in 'FileLoader.FileStructure.Devices' to use Collection&lt;T&gt;, ReadOnlyCollection&lt;T&gt; or KeyedCollection&lt;K,V&gt;</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FormInfo" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="System.Int32.ToString" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="Info.cs" Line="20">Because the behavior of 'int.ToString()' could vary based on the current user's locale settings, replace this call in 'FormInfo.FormInfo()' with a call to 'int.ToString(IFormatProvider)'. If the result of 'int.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="Info.cs" Line="20">Because the behavior of 'int.ToString()' could vary based on the current user's locale settings, replace this call in 'FormInfo.FormInfo()' with a call to 'int.ToString(IFormatProvider)'. If the result of 'int.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="Info.cs" Line="20">Because the behavior of 'int.ToString()' could vary based on the current user's locale settings, replace this call in 'FormInfo.FormInfo()' with a call to 'int.ToString(IFormatProvider)'. If the result of 'int.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#InitializeComponent()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="Elmos" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="Info.Designer.cs" Line="87">Correct the spelling of the unrecognized token 'Elmos' in the literal '"© 2020 Elmos Semiconductor AG"'.</Issue>
+            </Message>
+            <Message Id="Eval" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="Info.Designer.cs" Line="67">Correct the spelling of the unrecognized token 'Eval' in the literal '"521.38 UART Eval Tool"'.</Issue>
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="Info.Designer.cs" Line="104">Correct the spelling of the unrecognized token 'Eval' in the literal '"Info über 521.38 UART Eval"'.</Issue>
+            </Message>
+            <Message Id="über" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="Info.Designer.cs" Line="104">Correct the spelling of the unrecognized token 'über' in the literal '"Info über 521.38 UART Eval"'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FormMain" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#.ctor(ELMOS_521._38_UART_Eval.ApplicationData)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="serialPort" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="42">'FormMain.FormMain(ApplicationData)' declares a variable, 'serialPort', of type 'SerialPort', which is never used or is only assigned to. Use this variable or remove it.</Issue>
+            </Message>
+            <Message Id="System.Int32.ToString" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="58">Because the behavior of 'int.ToString()' could vary based on the current user's locale settings, replace this call in 'FormMain.FormMain(ApplicationData)' with a call to 'int.ToString(IFormatProvider)'. If the result of 'int.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="58">Because the behavior of 'int.ToString()' could vary based on the current user's locale settings, replace this call in 'FormMain.FormMain(ApplicationData)' with a call to 'int.ToString(IFormatProvider)'. If the result of 'int.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="58">Because the behavior of 'int.ToString()' could vary based on the current user's locale settings, replace this call in 'FormMain.FormMain(ApplicationData)' with a call to 'int.ToString(IFormatProvider)'. If the result of 'int.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+            <Message Id="0" TypeName="Validate arguments of public methods" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="39">In externally visible method 'FormMain.FormMain(ApplicationData)', validate parameter 'data' before using it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ActivateMenuItem(System.Windows.Forms.ToolStripMenuItem,System.String)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MarkMembersAsStatic" Category="Microsoft.Performance" CheckId="CA1822" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="340">The 'this' parameter (or 'Me' in Visual Basic) of 'FormMain.ActivateMenuItem(ToolStripMenuItem, string)' is never used. Mark the member as static (or Shared in Visual Basic) or use 'this'/'Me' in the method body or at least one property accessor, if appropriate.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#AddNewTab(ELMOS_521._38_UART_Eval.E52138ChipAPI)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="113">In method 'FormMain.AddNewTab(E52138ChipAPI)', call System.IDisposable.Dispose on object 'tp' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message Id="System.Int32.ToString" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="113">Because the behavior of 'int.ToString()' could vary based on the current user's locale settings, replace this call in 'FormMain.AddNewTab(E52138ChipAPI)' with a call to 'int.ToString(IFormatProvider)'. If the result of 'int.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+            <Message Id="System.String.Format(System.String,System.Object)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="116">Because the behavior of 'string.Format(string, object)' could vary based on the current user's locale settings, replace this call in 'FormMain.AddNewTab(E52138ChipAPI)' with a call to 'string.Format(IFormatProvider, string, params object[])'. If the result of 'string.Format(IFormatProvider, string, params object[])' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#AddNewTabs(System.Collections.Generic.List`1&lt;ELMOS_521._38_UART_Eval.E52138ChipAPI&gt;)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotExposeGenericLists" Category="Microsoft.Design" CheckId="CA1002" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="168">Change 'List&lt;E52138ChipAPI&gt;' in 'FormMain.AddNewTabs(List&lt;E52138ChipAPI&gt;)' to use Collection&lt;T&gt;, ReadOnlyCollection&lt;T&gt; or KeyedCollection&lt;K,V&gt;</Issue>
+            </Message>
+            <Message Id="System.String.Format(System.String,System.Object)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="181">Because the behavior of 'string.Format(string, object)' could vary based on the current user's locale settings, replace this call in 'FormMain.AddNewTabs(List&lt;E52138ChipAPI&gt;)' with a call to 'string.Format(IFormatProvider, string, params object[])'. If the result of 'string.Format(IFormatProvider, string, params object[])' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+            <Message Id="0" TypeName="Validate arguments of public methods" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="181">In externally visible method 'FormMain.AddNewTabs(List&lt;E52138ChipAPI&gt;)', validate parameter 'chips' before using it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#autoAnimMenuItemBlinker" Kind="Field" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUnusedPrivateFields" Category="Microsoft.Performance" CheckId="CA1823" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning">It appears that field 'FormMain.autoAnimMenuItemBlinker' is never used or is only ever assigned to. Use this field or remove it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#autoAnimMenuItemFullColorWheel" Kind="Field" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUnusedPrivateFields" Category="Microsoft.Performance" CheckId="CA1823" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning">It appears that field 'FormMain.autoAnimMenuItemFullColorWheel' is never used or is only ever assigned to. Use this field or remove it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#autoAnimMenuItemWhiperBlinker" Kind="Field" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUnusedPrivateFields" Category="Microsoft.Performance" CheckId="CA1823" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning">It appears that field 'FormMain.autoAnimMenuItemWhiperBlinker' is never used or is only ever assigned to. Use this field or remove it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#btnExpert_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="596">In method 'FormMain.btnExpert_Click(object, EventArgs)', call System.IDisposable.Dispose on object 'expertCommSettingsForm' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#butAnimLoad_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="py" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="429">Correct the spelling of the unrecognized token 'py' in the literal '"Python scripts (*.py)|*.py|All files (*.*)|*.*"'.</Issue>
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="429">Correct the spelling of the unrecognized token 'py' in the literal '"Python scripts (*.py)|*.py|All files (*.*)|*.*"'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#butAutoAddressing_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="418">In method 'FormMain.butAutoAddressing_Click(object, EventArgs)', call System.IDisposable.Dispose on object 'autoAddressing' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ChipAddedHandler(System.Object,ELMOS_521._38_UART_Eval.FileLoader+ChipsAddedEventArgs)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="1" TypeName="Validate arguments of public methods" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="222">In externally visible method 'FormMain.ChipAddedHandler(object, FileLoader.ChipsAddedEventArgs)', validate parameter 'e' before using it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#cmbAutoAnim_DropDown(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="TestForEmptyStringsUsingStringLength" Category="Microsoft.Performance" CheckId="CA1820" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="IsNullOrEmpty" Certainty="95" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="584">Replace the call to 'string.operator !=(string, string)' in 'FormMain.cmbAutoAnim_DropDown(object, EventArgs)' with a call to 'String.IsNullOrEmpty'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#compatibilityWarningAccepted" Kind="Field" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUnusedPrivateFields" Category="Microsoft.Performance" CheckId="CA1823" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning">It appears that field 'FormMain.compatibilityWarningAccepted' is never used or is only ever assigned to. Use this field or remove it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#handleHwCompatibility(System.Collections.Generic.List`1&lt;ELMOS_521._38_UART_Eval.E52138ChipAPI&gt;)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MarkMembersAsStatic" Category="Microsoft.Performance" CheckId="CA1822" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="140">The 'this' parameter (or 'Me' in Visual Basic) of 'FormMain.handleHwCompatibility(List&lt;E52138ChipAPI&gt;)' is never used. Mark the member as static (or Shared in Visual Basic) or use 'this'/'Me' in the method body or at least one property accessor, if appropriate.</Issue>
+            </Message>
+            <Message Id="chips" TypeName="ReviewUnusedParameters" Category="Microsoft.Usage" CheckId="CA1801" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="140">Parameter 'chips' of 'FormMain.handleHwCompatibility(List&lt;E52138ChipAPI&gt;)' is never used. Remove the parameter or use it in the method body.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#InitializeComponent()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="Elmos" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.Designer.cs" Line="132">Correct the spelling of the unrecognized token 'Elmos' in the literal '"© 2022 Elmos Semiconductor SE"'.</Issue>
+            </Message>
+            <Message Id="Eval" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.Designer.cs" Line="789">Correct the spelling of the unrecognized token 'Eval' in the literal '"ELMOS 521.38 UART Eval"'.</Issue>
+            </Message>
+            <Message Id="MBaud" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.Designer.cs" Line="200">Correct the spelling of the unrecognized token 'MBaud' in the literal '"1 MBaud"'.</Issue>
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.Designer.cs" Line="630">Correct the spelling of the unrecognized token 'MBaud' in the literal '"1 MBaud"'.</Issue>
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.Designer.cs" Line="637">Correct the spelling of the unrecognized token 'MBaud' in the literal '"2 MBaud"'.</Issue>
+            </Message>
+            <Message Id="MenMainStrip" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.Designer.cs" Line="479">Correct the spelling of the unrecognized token 'MenMainStrip' in the literal '"MenMainStrip"'.</Issue>
+            </Message>
+            <Message Id="kBaud" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.Designer.cs" Line="607">Correct the spelling of the unrecognized token 'kBaud' in the literal '"460.8 kBaud"'.</Issue>
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.Designer.cs" Line="614">Correct the spelling of the unrecognized token 'kBaud' in the literal '"500 kBaud"'.</Issue>
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.Designer.cs" Line="600">Correct the spelling of the unrecognized token 'kBaud' in the literal '"57.6 kBaud"'.</Issue>
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.Designer.cs" Line="621">Correct the spelling of the unrecognized token 'kBaud' in the literal '"921.6 kBaud"'.</Issue>
+            </Message>
+            <Message Id="ms" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.Designer.cs" Line="367">Correct the spelling of the unrecognized token 'ms' in the literal '"Send PWM each                      ms"'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#labAddDevice_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="253">In method 'FormMain.labAddDevice_Click(object, EventArgs)', call System.IDisposable.Dispose on object 'addDevice' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#MenItmAnimations_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="520">In method 'FormMain.MenItmAnimations_Click(object, EventArgs)', call System.IDisposable.Dispose on object 'new ToolStripSeparator()' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="TestForEmptyStringsUsingStringLength" Category="Microsoft.Performance" CheckId="CA1820" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="IsNullOrEmpty" Certainty="95" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="523">Replace the call to 'string.operator !=(string, string)' in 'FormMain.MenItmAnimations_Click(object, EventArgs)' with a call to 'String.IsNullOrEmpty'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#MenItmAutoAnim" Kind="Field" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUnusedPrivateFields" Category="Microsoft.Performance" CheckId="CA1823" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning">It appears that field 'FormMain.MenItmAutoAnim' is never used or is only ever assigned to. Use this field or remove it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#RemoveCurrentTab()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="System.GC.Collect" TypeName="AvoidCallingProblematicMethods" Category="Microsoft.Reliability" CheckId="CA2001" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="System.GC.Collect" Certainty="75" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="243">Remove the call to GC.Collect from 'FormMain.RemoveCurrentTab()'. It is usually unnecessary to force garbage collection, and doing so can severely degrade performance.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#RemoveTab(System.Windows.Forms.TabPage)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="System.Int32.Parse(System.String)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="230">Because the behavior of 'int.Parse(string)' could vary based on the current user's locale settings, replace this call in 'FormMain.RemoveTab(TabPage)' with a call to 'int.Parse(string, IFormatProvider)'. If the result of 'int.Parse(string, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+            <Message Id="0" TypeName="Validate arguments of public methods" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="228">In externally visible method 'FormMain.RemoveTab(TabPage)', validate parameter 'page' before using it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#tabDevices_Selecting(System.Object,System.Windows.Forms.TabControlCancelEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Int32.Parse(System.String)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="main.cs" Line="557">Because the behavior of 'int.Parse(string)' could vary based on the current user's locale settings, replace this call in 'FormMain.tabDevices_Selecting(object, TabControlCancelEventArgs)' with a call to 'int.Parse(string, IFormatProvider)'. If the result of 'int.Parse(string, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="LEDStatusDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="MarkISerializableTypesWithSerializable" Category="Microsoft.Usage" CheckId="CA2237" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+           <Issue Certainty="75" Level="Warning">Add [Serializable] to 'LEDStatusDataTable' as this type implements ISerializable.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="LEDStatusDataTable.cs" Line="15">In method 'LEDStatusDataTable.LEDStatusDataTable()', object 'column' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'column' before all references to it are out of scope.</Issue>
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="LEDStatusDataTable.cs" Line="20">In method 'LEDStatusDataTable.LEDStatusDataTable()', object 'column' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'column' before all references to it are out of scope.</Issue>
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="LEDStatusDataTable.cs" Line="25">In method 'LEDStatusDataTable.LEDStatusDataTable()', object 'column' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'column' before all references to it are out of scope.</Issue>
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="LEDStatusDataTable.cs" Line="30">In method 'LEDStatusDataTable.LEDStatusDataTable()', object 'column' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'column' before all references to it are out of scope.</Issue>
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="LEDStatusDataTable.cs" Line="35">In method 'LEDStatusDataTable.LEDStatusDataTable()', object 'column' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'column' before all references to it are out of scope.</Issue>
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="LEDStatusDataTable.cs" Line="40">In method 'LEDStatusDataTable.LEDStatusDataTable()', object 'column' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'column' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="Program" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#Main()" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="Program.cs" Line="18">'Program.Main()' appears to have no upstream public or protected callers.</Issue>
+            </Message>
+            <Message Id="controller" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval" File="Program.cs" Line="22">'Program.Main()' declares a variable, 'controller', of type 'ApplicationController', which is never used or is only assigned to. Use this variable or remove it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="StateIterator" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#.ctor(System.Double,System.Boolean)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotRaiseReservedExceptionTypes" Category="Microsoft.Usage" CheckId="CA2201" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Name="TooGeneric" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="StateIterator.cs" Line="54">'StateIterator.StateIterator(double, bool)' creates an exception of type 'Exception', an exception type that is not sufficiently specific and should never be raised by user code. If this exception instance might be thrown, use a different exception type.</Issue>
+            </Message>
+            <Message Id="StateMachine" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="StateIterator.cs" Line="54">Correct the spelling of the unrecognized token 'StateMachine' in the literal '"StateMachine needs at least one method marked with an TransitionAttribute"'.</Issue>
+            </Message>
+            <Message Id="TransitionAttribute" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="StateIterator.cs" Line="54">Correct the spelling of the unrecognized token 'TransitionAttribute' in the literal '"StateMachine needs at least one method marked with an TransitionAttribute"'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Dispose()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="CallGCSuppressFinalizeCorrectly" Category="Microsoft.Usage" CheckId="CA1816" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="NotCalledWithFinalizer" Certainty="75" Level="CriticalWarning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="StateIterator.cs" Line="92">Change 'StateIterator.Dispose()' to call 'GC.SuppressFinalize(object)'. This will prevent unnecessary finalization of the object once it has been disposed and it has fallen out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="StateIterator+TransitionAttribute" Kind="Class" Accessibility="Family" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="AvoidUnsealedAttributes" Category="Microsoft.Performance" CheckId="CA1813" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+           <Issue Certainty="75" Level="Warning">Seal 'StateIterator.TransitionAttribute', if possible.</Issue>
+          </Message>
+          <Message TypeName="MarkAttributesWithAttributeUsage" Category="Microsoft.Design" CheckId="CA1018" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+           <Issue Certainty="95" Level="Error">Specify AttributeUsage on 'StateIterator.TransitionAttribute'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="StateMachine" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#Dispose()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="CallGCSuppressFinalizeCorrectly" Category="Microsoft.Usage" CheckId="CA1816" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="NotCalledWithFinalizer" Certainty="75" Level="CriticalWarning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="StateMachine.cs" Line="57">Change 'StateMachine.Dispose()' to call 'GC.SuppressFinalize(object)'. This will prevent unnecessary finalization of the object once it has been disposed and it has fallen out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Interval(System.Double)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\ChipAPI" File="StateMachine.cs" Line="103">'StateMachine.Interval(double)' appears to have no upstream public or protected callers.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="StateMachine+StateAttribute" Kind="Class" Accessibility="Family" ExternallyVisible="False">
+         <Messages>
+          <Message TypeName="AvoidUnsealedAttributes" Category="Microsoft.Performance" CheckId="CA1813" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+           <Issue Certainty="75" Level="Warning">Seal 'StateMachine.StateAttribute', if possible.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="ELMOS_521._38_UART_Eval.Animations">
+       <Types>
+        <Type Name="AnimationHandler" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#Run()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="DoNotCatchGeneralExceptionTypes" Category="Microsoft.Design" CheckId="CA1031" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="CriticalError" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\Animations" File="AnimationHandler.cs" Line="62">Modify 'AnimationHandler.Run()' to catch a more specific exception than 'Exception' or rethrow the exception.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#SetLED(System.Int32,IronPython.Runtime.List,IronPython.Runtime.List)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="DoNotCatchGeneralExceptionTypes" Category="Microsoft.Design" CheckId="CA1031" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="CriticalError" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\Animations" File="AnimationHandler.cs" Line="135">Modify 'AnimationHandler.SetLED(int, List, List)' to catch a more specific exception than 'object' or rethrow the exception.</Issue>
+            </Message>
+            <Message Id="AnimationHandler" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\Animations" File="AnimationHandler.cs" Line="176">Correct the spelling of the unrecognized token 'AnimationHandler' in the literal '"AnimationHandler: Chip {0} not found"'.</Issue>
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\Animations" File="AnimationHandler.cs" Line="171">Correct the spelling of the unrecognized token 'AnimationHandler' in the literal '"AnimationHandler: LED {0} not patched."'.</Issue>
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\Animations" File="AnimationHandler.cs" Line="137">Correct the spelling of the unrecognized token 'AnimationHandler' in the literal '"AnimationHandler: SetRGB Command HSV value must be a list of 3 integer elements...."'.</Issue>
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\Animations" File="AnimationHandler.cs" Line="144">Correct the spelling of the unrecognized token 'AnimationHandler' in the literal '"AnimationHandler: SetRGB Command had no valid data."'.</Issue>
+            </Message>
+            <Message Id="SetRGB" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\Animations" File="AnimationHandler.cs" Line="137">Correct the spelling of the unrecognized token 'SetRGB' in the literal '"AnimationHandler: SetRGB Command HSV value must be a list of 3 integer elements...."'.</Issue>
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\Animations" File="AnimationHandler.cs" Line="144">Correct the spelling of the unrecognized token 'SetRGB' in the literal '"AnimationHandler: SetRGB Command had no valid data."'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#SetPWM(System.Int32,IronPython.Runtime.List)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="AnimationHandler" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\Animations" File="AnimationHandler.cs" Line="102">Correct the spelling of the unrecognized token 'AnimationHandler' in the literal '"AnimationHandler: Chip {0} not found"'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="ELMOS_521._38_UART_Eval.DeviceTabPanel">
+       <Types>
+        <Type Name="ChipAccess" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#InitializeComponent()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="ChipAccess" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="ChipAccess.Designer.cs" Line="2360">Correct the spelling of the unrecognized token 'ChipAccess' in the literal '"ChipAccess"'.</Issue>
+            </Message>
+            <Message Id="Comperators" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="ChipAccess.Designer.cs" Line="265">Correct the spelling of the unrecognized token 'Comperators' in the literal '"Comperators"'.</Issue>
+            </Message>
+            <Message Id="crit" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="ChipAccess.Designer.cs" Line="324">Correct the spelling of the unrecognized token 'crit' in the literal '"VS crit"'.</Issue>
+            </Message>
+            <Message Id="ov" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="ChipAccess.Designer.cs" Line="401">Correct the spelling of the unrecognized token 'ov' in the literal '"VDDA ov"'.</Issue>
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="ChipAccess.Designer.cs" Line="475">Correct the spelling of the unrecognized token 'ov' in the literal '"VDDD ov"'.</Issue>
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="ChipAccess.Designer.cs" Line="379">Correct the spelling of the unrecognized token 'ov' in the literal '"VS ov"'.</Issue>
+            </Message>
+            <Message Id="uv" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="ChipAccess.Designer.cs" Line="464">Correct the spelling of the unrecognized token 'uv' in the literal '"VDDA uv"'.</Issue>
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="ChipAccess.Designer.cs" Line="486">Correct the spelling of the unrecognized token 'uv' in the literal '"VDDD uv"'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#SetPWMValues(System.Int32[])" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="Validate arguments of public methods" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="ChipAccess.cs" Line="184">In externally visible method 'ChipAccess.SetPWMValues(int[])', validate parameter 'values' before using it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="ColorPicker" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="ColorPicker.cs" Line="80">In method 'ColorPicker.ColorPicker()', object 'new ColorPicker.Grabber()' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'new ColorPicker.Grabber()' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Color" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="PropertyNamesShouldNotMatchGetMethods" Category="Microsoft.Naming" CheckId="CA1721" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Name="SameType" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="ColorPicker.cs" Line="61">The property name 'ColorPicker.Color' is confusing given the existence of method 'ColorPicker.GetColor()'. Rename or remove one of these members.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetColor()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="UsePropertiesWhereAppropriate" Category="Microsoft.Design" CheckId="CA1024" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="ColorPicker.cs" Line="131">Change 'ColorPicker.GetColor()' to a property if appropriate.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#RadiusMax(System.Int32,System.Drawing.Point)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="radius" TypeName="VariableNamesShouldNotMatchFieldNames" Category="Microsoft.Maintainability" CheckId="CA1500" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="Parameter" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="ColorPicker.cs" Line="173">'radius', a parameter declared in 'ColorPicker.RadiusMax(int, Point)', has the same name as an instance field on the type. Change the name of one of these items.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="ColorPicker+Grabber" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="NestedTypesShouldNotBeVisible" Category="Microsoft.Design" CheckId="CA1034" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+           <Issue Certainty="90" Level="Error">Do not nest type 'ColorPicker.Grabber'. Alternatively, change its accessibility so that it is not externally visible.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#OnPaint(System.Windows.Forms.PaintEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="ColorPicker.cs" Line="40">In method 'ColorPicker.Grabber.OnPaint(PaintEventArgs)', call System.IDisposable.Dispose on object 'pen' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message Id="0" TypeName="Validate arguments of public methods" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="ColorPicker.cs" Line="39">In externally visible method 'ColorPicker.Grabber.OnPaint(PaintEventArgs)', validate parameter 'e' before using it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="ColorPicker+GrabberColorChangeArgs" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="NestedTypesShouldNotBeVisible" Category="Microsoft.Design" CheckId="CA1034" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+           <Issue Certainty="90" Level="Error">Do not nest type 'ColorPicker.GrabberColorChangeArgs'. Alternatively, change its accessibility so that it is not externally visible.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="Command" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="Command.cs" Line="16">In method 'Command.Command()', call System.IDisposable.Dispose on object 'new TextBoxWriter(this.txtLog)' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#butWrite_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.String.ToUpper" TypeName="SpecifyCultureInfo" Category="Microsoft.Globalization" CheckId="CA1304" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="Command.cs" Line="76">Because the behavior of 'string.ToUpper()' could vary based on the current user's locale settings, replace this call in 'Command.butWrite_Click(object, EventArgs)' with a call to 'string.ToUpper(CultureInfo)'. If the result of 'string.ToUpper(CultureInfo)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'CultureInfo' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#txtCommand_TextChanged(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.String.ToUpper" TypeName="SpecifyCultureInfo" Category="Microsoft.Globalization" CheckId="CA1304" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="Command.cs" Line="33">Because the behavior of 'string.ToUpper()' could vary based on the current user's locale settings, replace this call in 'Command.txtCommand_TextChanged(object, EventArgs)' with a call to 'string.ToUpper(CultureInfo)'. If the result of 'string.ToUpper(CultureInfo)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'CultureInfo' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="Command.cs" Line="34">Because the behavior of 'string.ToUpper()' could vary based on the current user's locale settings, replace this call in 'Command.txtCommand_TextChanged(object, EventArgs)' with a call to 'string.ToUpper(CultureInfo)'. If the result of 'string.ToUpper(CultureInfo)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'CultureInfo' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="DeviceTabPanel" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="TypeNamesShouldNotMatchNamespaces" Category="Microsoft.Naming" CheckId="CA1724" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+           <Issue Certainty="95" Level="Error">The type name 'DeviceTabPanel' conflicts in whole or in part with the namespace name 'ELMOS_521._38_UART_Eval.DeviceTabPanel'. Change either name to eliminate the conflict.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#Chip" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Accessors>
+            <Accessor Name="#set_Chip(ELMOS_521._38_UART_Eval.E52138ChipAPI)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+             <Messages>
+              <Message TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+               <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="DeviceTabPanel.cs" Line="26">'DeviceTabPanel.Chip.set(E52138ChipAPI)' appears to have no upstream public or protected callers.</Issue>
+              </Message>
+             </Messages>
+            </Accessor>
+           </Accessors>
+          </Member>
+          <Member Name="#InitializeComponent()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="DeviceTabPanel" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="DeviceTabPanel.Designer.cs" Line="187">Correct the spelling of the unrecognized token 'DeviceTabPanel' in the literal '"DeviceTabPanel"'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="DeviceTabPanelBase" Kind="Interface" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message Id="I" TypeName="IdentifiersShouldHaveCorrectPrefix" Category="Microsoft.Naming" CheckId="CA1715" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+           <Issue Name="Interface" Certainty="95" Level="Error">Prefix interface name 'DeviceTabPanelBase' with 'I'.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#getPanel()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="UsePropertiesWhereAppropriate" Category="Microsoft.Design" CheckId="CA1024" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="Warning">Change 'DeviceTabPanelBase.getPanel()' to a property if appropriate.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="General" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#UpdateData(System.String,System.Boolean)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="System.String.Format(System.String,System.Object)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="General.cs" Line="28">Because the behavior of 'string.Format(string, object)' could vary based on the current user's locale settings, replace this call in 'General.UpdateData(string, bool)' with a call to 'string.Format(IFormatProvider, string, params object[])'. If the result of 'string.Format(IFormatProvider, string, params object[])' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="LEDAccess" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#ButRGBpatch_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="LEDAccess.cs" Line="116">In method 'LEDAccess.ButRGBpatch_Click(object, EventArgs)', call System.IDisposable.Dispose on object 'patchMatrix' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ColorChangedHandler(System.Object,ELMOS_521._38_UART_Eval.DeviceTabPanel.ColorPicker+GrabberColorChangeArgs,System.Int32)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="sender" TypeName="ReviewUnusedParameters" Category="Microsoft.Usage" CheckId="CA1801" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="LEDAccess.cs" Line="87">Parameter 'sender' of 'LEDAccess.ColorChangedHandler(object, ColorPicker.GrabberColorChangeArgs, int)' is never used. Remove the parameter or use it in the method body.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#InitializeComponent()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="LEDAccess" TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="LEDAccess.Designer.cs" Line="206">Correct the spelling of the unrecognized token 'LEDAccess' in the literal '"LED_Access"'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#MatrixUnconfigured(System.Int32[,])" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MarkMembersAsStatic" Category="Microsoft.Performance" CheckId="CA1822" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="LEDAccess.cs" Line="106">The 'this' parameter (or 'Me' in Visual Basic) of 'LEDAccess.MatrixUnconfigured(int[,])' is never used. Mark the member as static (or Shared in Visual Basic) or use 'this'/'Me' in the method body or at least one property accessor, if appropriate.</Issue>
+            </Message>
+            <Message Id="0#" TypeName="PreferJaggedArraysOverMultidimensional" Category="Microsoft.Performance" CheckId="CA1814" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Certainty="25" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="LEDAccess.cs" Line="106">'matrix' is a multidimensional array. Replace it with a jagged array if possible.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="PanelForm" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#NewChip(ELMOS_521._38_UART_Eval.E52138ChipAPI)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="chip" TypeName="VariableNamesShouldNotMatchFieldNames" Category="Microsoft.Maintainability" CheckId="CA1500" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Name="Parameter" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="PanelSelector.cs" Line="70">'chip', a parameter declared in 'PanelForm.NewChip(E52138ChipAPI)', has the same name as an instance field on the type. Change the name of one of these items.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#SetChip(ELMOS_521._38_UART_Eval.E52138ChipAPI)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="Validate arguments of public methods" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="PanelSelector.cs" Line="64">In externally visible method 'PanelForm.SetChip(E52138ChipAPI)', validate parameter 'chip' before using it.</Issue>
+            </Message>
+            <Message Id="chip" TypeName="VariableNamesShouldNotMatchFieldNames" Category="Microsoft.Maintainability" CheckId="CA1500" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Name="Parameter" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="PanelSelector.cs" Line="61">'chip', a parameter declared in 'PanelForm.SetChip(E52138ChipAPI)', has the same name as an instance field on the type. Change the name of one of these items.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="PanelSelector`1" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message Id="T" TypeName="IdentifiersShouldHaveCorrectPrefix" Category="Microsoft.Naming" CheckId="CA1715" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+           <Issue Name="TypeTypeParameter" Certainty="95" Level="Error">On type 'PanelSelector&lt;KeyType&gt;', prefix generic type parameter name 'KeyType' with 'T'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="PatchMatrixForm" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#.ctor(System.Int32[,]&amp;,System.Boolean)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="PatchMatrixForm.cs" Line="104">In method 'PatchMatrixForm.PatchMatrixForm(ref int[,], bool)', call System.IDisposable.Dispose on object 'new Label()' before all references to it are out of scope.</Issue>
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="PatchMatrixForm.cs" Line="119">In method 'PatchMatrixForm.PatchMatrixForm(ref int[,], bool)', call System.IDisposable.Dispose on object 'new Label()' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message Id="0#" TypeName="DoNotPassTypesByReference" Category="Microsoft.Design" CheckId="CA1045" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Certainty="75" Level="CriticalWarning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="PatchMatrixForm.Designer.cs" Line="8">Consider a design that does not require that 'matrix' be a reference parameter.</Issue>
+            </Message>
+            <Message Id="System.Int32.ToString" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="PatchMatrixForm.cs" Line="104">Because the behavior of 'int.ToString()' could vary based on the current user's locale settings, replace this call in 'PatchMatrixForm.PatchMatrixForm(ref int[,], bool)' with a call to 'int.ToString(IFormatProvider)'. If the result of 'int.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="PatchMatrixForm.cs" Line="104">Because the behavior of 'int.ToString()' could vary based on the current user's locale settings, replace this call in 'PatchMatrixForm.PatchMatrixForm(ref int[,], bool)' with a call to 'int.ToString(IFormatProvider)'. If the result of 'int.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="PatchMatrixForm.cs" Line="119">Because the behavior of 'int.ToString()' could vary based on the current user's locale settings, replace this call in 'PatchMatrixForm.PatchMatrixForm(ref int[,], bool)' with a call to 'int.ToString(IFormatProvider)'. If the result of 'int.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="PatchMatrixForm.cs" Line="119">Because the behavior of 'int.ToString()' could vary based on the current user's locale settings, replace this call in 'PatchMatrixForm.PatchMatrixForm(ref int[,], bool)' with a call to 'int.ToString(IFormatProvider)'. If the result of 'int.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#AddPickerPanel(System.Int32,System.Int32,System.Boolean)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="PatchMatrixForm.cs" Line="170">In method 'PatchMatrixForm.AddPickerPanel(int, int, bool)', call System.IDisposable.Dispose on object 'new PatchMatrixForm.ConnectPanel(rowColor, ..., led, color, channel, enabled)' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Provide correct arguments to formatting methods" Category="Microsoft.Usage" CheckId="CA2241" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Name="MissingFormatItem" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="PatchMatrixForm.cs" Line="170">Method 'PatchMatrixForm.AddPickerPanel(int, int, bool)' calls 'string.Format(string, object, object, object)' and does not provide a format item for argument "2, 3". The provided format string is: '"ConPan{0:d}{0:d}{0:dd}"'</Issue>
+            </Message>
+            <Message Id="System.String.Format(System.String,System.Object,System.Object,System.Object)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="PatchMatrixForm.cs" Line="170">Because the behavior of 'string.Format(string, object, object, object)' could vary based on the current user's locale settings, replace this call in 'PatchMatrixForm.AddPickerPanel(int, int, bool)' with a call to 'string.Format(IFormatProvider, string, params object[])'. If the result of 'string.Format(IFormatProvider, string, params object[])' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#matrix" Kind="Field" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="Member" TypeName="PreferJaggedArraysOverMultidimensional" Category="Microsoft.Performance" CheckId="CA1814" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Certainty="25" Level="Warning">'PatchMatrixForm.matrix' is a multidimensional array. Replace it with a jagged array if possible.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="PatchMatrixForm+ConnectPanel" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="NestedTypesShouldNotBeVisible" Category="Microsoft.Design" CheckId="CA1034" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+           <Issue Certainty="90" Level="Error">Do not nest type 'PatchMatrixForm.ConnectPanel'. Alternatively, change its accessibility so that it is not externally visible.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#OnPaint(System.Windows.Forms.PaintEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="PatchMatrixForm.cs" Line="64">In method 'PatchMatrixForm.ConnectPanel.OnPaint(PaintEventArgs)', call System.IDisposable.Dispose on object 'new SolidBrush(Color.Black)' before all references to it are out of scope.</Issue>
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="PatchMatrixForm.cs" Line="66">In method 'PatchMatrixForm.ConnectPanel.OnPaint(PaintEventArgs)', call System.IDisposable.Dispose on object 'new SolidBrush(SystemColors.Control)' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message Id="0" TypeName="Validate arguments of public methods" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="PatchMatrixForm.cs" Line="59">In externally visible method 'PatchMatrixForm.ConnectPanel.OnPaint(PaintEventArgs)', validate parameter 'e' before using it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="TabPanel" Kind="Struct" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="OverrideEqualsAndOperatorEqualsOnValueTypes" Category="Microsoft.Performance" CheckId="CA1815" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+           <Issue Name="Equals" Certainty="75" Level="Warning">'TabPanel' should override Equals.</Issue>
+           <Issue Name="op_Equality" Certainty="75" Level="Warning">'TabPanel' should override the equality (==) and inequality (!=) operators.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="TextBoxWriter" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#.ctor(System.Windows.Forms.TextBox)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="textbox" TypeName="CompoundWordsShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1702" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="Breaking">
+             <Issue Name="MemberParameterShouldBeCompoundWord" Certainty="80" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="Command.cs" Line="104">In member 'TextBoxWriter.TextBoxWriter(TextBox)', the discrete term 'textbox' in parameter name 'textbox' should be expressed as a compound word, 'textBox'.</Issue>
+            </Message>
+            <Message Id="System.IO.TextWriter.#ctor" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2024-03-27 07:17:47Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\DeviceTabPanel" File="Command.cs" Line="104">Because the behavior of 'TextWriter.TextWriter()' could vary based on the current user's locale settings, replace this call in 'TextBoxWriter.TextBoxWriter(TextBox)' with a call to 'TextWriter.TextWriter(IFormatProvider)'. If the result of 'TextWriter.TextWriter(IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210">
+   <Name>Assemblies should have valid strong names</Name>
+   <Description>Either the assembly has no strong name, an invalid one, or the strong name is valid only because of the computer configuration. The assembly should not be deployed in this state. The most common causes of this are: 1) The assembly's contents were modified after it was signed. 2) The signing process failed. 3) The assembly was delay-signed. 4) A registry key existed that allowed the check to pass (where it would not have otherwise).</Description>
+   <Resolution Name="NoStrongName">Sign {0} with a strong name key.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182127.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="AvoidCallingProblematicMethods" Category="Microsoft.Reliability" CheckId="CA2001">
+   <Name>Avoid calling problematic methods</Name>
+   <Description>Avoid making unnecessary and potentially dangerous method calls.</Description>
+   <Resolution Name="System.GC.Collect">Remove the call to GC.Collect from {0}. It is usually unnecessary to force garbage collection, and doing so can severely degrade performance.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/bb385973.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Error</MessageLevel>
+   <File Name="reliabilityrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="AvoidExcessiveClassCoupling" Category="Microsoft.Maintainability" CheckId="CA1506">
+   <Name>Avoid excessive class coupling</Name>
+   <Description>Types and methods with a high degree of class coupling can be difficult to maintain.</Description>
+   <Resolution Name="Type">{0} is coupled with {1} different types from {2} different namespaces. Rewrite or refactor this class's methods to decrease its class coupling, or consider moving some of the class's methods to some of the other types it is tightly coupled with. A class coupling above {3} indicates poor maintainability, a class coupling between {3} and {4} indicates moderate maintainability, and a class coupling below {4} indicates good maintainability.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/bb397994.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="90">Warning</MessageLevel>
+   <File Name="maintainabilityrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="AvoidExcessiveComplexity" Category="Microsoft.Maintainability" CheckId="CA1502">
+   <Name>Avoid excessive complexity</Name>
+   <Description>Method implementations that are exceedingly complex increase the challenge of understanding and maintaining code.</Description>
+   <Resolution Name="Default">{0} has a cyclomatic complexity of {1}. Rewrite or refactor the method to reduce complexity to {2}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182212.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="90">Warning</MessageLevel>
+   <File Name="maintainabilityrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="AvoidNamespacesWithFewTypes" Category="Microsoft.Design" CheckId="CA1020">
+   <Name>Avoid namespaces with few types</Name>
+   <Description>A namespace should generally have more than five types.</Description>
+   <Resolution Name="Default">Consider merging the types defined in '{0}' with another namespace.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182130.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="50">Warning</MessageLevel>
+   <File Name="designrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811">
+   <Name>Avoid uncalled private code</Name>
+   <Description>There is uncalled code that is not externally visible and is not a known runtime entry point. If this violation fires in error, please send a problem report to the Visual Studio Code Analysis team.</Description>
+   <Resolution Name="Default">{0} appears to have no upstream public or protected callers.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182264.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="AvoidUnsealedAttributes" Category="Microsoft.Performance" CheckId="CA1813">
+   <Name>Avoid unsealed attributes</Name>
+   <Description>Seal attribute types for improved performance. Sealing attribute types speeds up performance during reflection on custom attributes.</Description>
+   <Resolution Name="Default">Seal {0}, if possible.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182267.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="AvoidUnusedPrivateFields" Category="Microsoft.Performance" CheckId="CA1823">
+   <Name>Avoid unused private fields</Name>
+   <Description>Private fields were detected that do not appear to be accessed within the assembly. If this violation fires in error, please send a problem report to the Visual Studio Code Analysis team.</Description>
+   <Resolution Name="Default">It appears that field {0} is never used or is only ever assigned to. Use this field or remove it.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms245042.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="CallGCSuppressFinalizeCorrectly" Category="Microsoft.Usage" CheckId="CA1816">
+   <Name>Call GC.SuppressFinalize correctly</Name>
+   <Description>Call GC.SuppressFinalize to suppress finalization of your instance once Dispose has been called. Objects that implement IDisposable should call SuppressFinalize from the IDisposable.Dispose method to prevent the garbage collector from calling Object.Finalize on an object that does not require it.</Description>
+   <Resolution Name="NotCalledWithFinalizer">Change {0} to call {1}. This will prevent unnecessary finalization of the object once it has been disposed and it has fallen out of scope.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182269.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">CriticalWarning</MessageLevel>
+   <File Name="usagerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="CompoundWordsShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1702">
+   <Name>Compound words should be cased correctly</Name>
+   <Description>Avoid creating compound words from terms which exist in the dictionary as discrete terms. Do not create a compound word such as 'StopWatch' or 'PopUp'. These terms are recognized in the dictionary and should be cased as 'Stopwatch' and 'Popup'.</Description>
+   <Resolution Name="MemberParameterShouldBeCompoundWord">In member {0}, the discrete term '{1}' in parameter name {2} should be expressed as a compound word, '{3}'.</Resolution>
+   <Resolution Name="MemberShouldBeDiscreteTerm">The compound word '{0}' in member name {1} exists as a discrete term. If your usage is intended to be single word, case it as '{2}' or strip the first token entirely if it represents any sort of Hungarian notation.</Resolution>
+   <Resolution Name="TypeShouldBeDiscreteTerm">The compound word '{0}' in type name {1} exists as a discrete term. If your usage is intended to be single word, case it as '{2}'.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/bb264474.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="80">Error</MessageLevel>
+   <File Name="namingrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213">
+   <Name>Disposable fields should be disposed</Name>
+   <Description>If a type that implements IDisposable owns fields that also implement IDisposable, the encapsulating type's Dispose() implementation should call Dispose() on each disposable field.</Description>
+   <Resolution Name="Default">{0} contains field {1} that is of IDisposable type: {2}. Change the Dispose method on {0} to call Dispose or Close on this field.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182328.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="usagerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000">
+   <Name>Dispose objects before losing scope</Name>
+   <Description>If a disposable object is not explicitly disposed before all references to it are out of scope, the object will be disposed at some indeterminate time when the garbage collector runs the finalizer of the object. Because an exceptional event might occur that will prevent the finalizer of the object from running, the object should be explicitly disposed instead.</Description>
+   <Resolution Name="ExceptionEdge">In method {0}, object {1} is not disposed along all exception paths. Call System.IDisposable.Dispose on object {1} before all references to it are out of scope.</Resolution>
+   <Resolution Name="NonExceptionEdge">In method {0}, call System.IDisposable.Dispose on object {1} before all references to it are out of scope.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182289.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="Do not dispose objects multiple times" Category="Microsoft.Usage" CheckId="CA2202">
+   <Name>Do not dispose objects multiple times</Name>
+   <Description>A correctly implemented Dispose method can be called multiple times without throwing an exception. However, this is not guaranteed and to avoid generating a System.ObjectDisposedException you should not call Dispose more than one time on an object.</Description>
+   <Resolution Name="Default">Object {0} can be disposed more than once in method {1}. To avoid generating a System.ObjectDisposedException you should not call Dispose more than one time on an object.: Lines: 94</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182334.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="DoNotCatchGeneralExceptionTypes" Category="Microsoft.Design" CheckId="CA1031">
+   <Name>Do not catch general exception types</Name>
+   <Description>You should not catch Exception or SystemException. Catching generic exception types can hide run-time problems from the library user, and can complicate debugging. You should catch only those exceptions that you can handle gracefully.</Description>
+   <Resolution Name="Default">Modify {0} to catch a more specific exception than {1} or rethrow the exception.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182137.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="DoNotExposeGenericLists" Category="Microsoft.Design" CheckId="CA1002">
+   <Name>Do not expose generic lists</Name>
+   <Description>Do not expose List&lt;T&gt; in object models. Use Collection&lt;T&gt;, ReadOnlyCollection&lt;T&gt; or KeyedCollection&lt;K,V&gt; instead. List&lt;T&gt; is meant to be used from implementation, not in object model API. List&lt;T&gt; is optimized for performance at the cost of long term versioning. For example, if you return List&lt;T&gt; to the client code, you will not ever be able to receive notifications when client code modifies the collection.</Description>
+   <Resolution Name="Default">Change {0} in {1} to use Collection&lt;T&gt;, ReadOnlyCollection&lt;T&gt; or KeyedCollection&lt;K,V&gt;</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182142.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="designrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="DoNotPassTypesByReference" Category="Microsoft.Design" CheckId="CA1045">
+   <Name>Do not pass types by reference</Name>
+   <Description>Although there are legitimate times to use reference parameters, such use frequently indicates a design that does not conform to the design guidelines for managed code.</Description>
+   <Resolution Name="Default">Consider a design that does not require that {0} be a reference parameter.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182146.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="designrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="DoNotRaiseReservedExceptionTypes" Category="Microsoft.Usage" CheckId="CA2201">
+   <Name>Do not raise reserved exception types</Name>
+   <Description>User code should not create and raise exceptions of certain types that are reserved by the runtime or which are of a too general exception type. Exception types that are too general include Exception, SystemException, and ApplicationException. Exception types that are reserved by the runtime include ThreadAbortException, OutOfMemoryException, ExecutionEngineException, and IndexOutOfRangeException.</Description>
+   <Resolution Name="TooGeneric">{0} creates an exception of type {1}, an exception type that is not sufficiently specific and should never be raised by user code. If this exception instance might be thrown, use a different exception type.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182338.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="usagerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="IdentifiersShouldHaveCorrectPrefix" Category="Microsoft.Naming" CheckId="CA1715">
+   <Name>Identifiers should have correct prefix</Name>
+   <Description>Prefix interface names with the letter 'I' to indicate that the type is an interface, as in IFormattable. Prefix generic type parameter names with the letter 'T' and provide them with descriptive names, as in Dictionary&lt;TKey, TValue&gt;, unless a single 'T' is completely self-explanatory, as in Collection&lt;T&gt;. Use Pascal casing for both interface and type parameter names. Use abbreviations sparingly. Do not use the underscore character. Do use similar names when defining a class/interface pair where the class is a standard implementation of the interface. The names should differ only by the letter I prefixed on the interface name, as with Component and IComponent.</Description>
+   <Resolution Name="Interface">Prefix interface name {0} with 'I'.</Resolution>
+   <Resolution Name="TypeTypeParameter">On type {0}, prefix generic type parameter name {1} with 'T'.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182243.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="namingrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063">
+   <Name>Implement IDisposable correctly</Name>
+   <Description>All IDisposable types should implement the Dispose pattern correctly.</Description>
+   <Resolution Name="FinalizeImplementation">Modify {0} so that it calls Dispose(false) and then returns.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms244737.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="designrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="Literals should be spelled correctly" Category="Microsoft.Naming" CheckId="CA2204">
+   <Name>Literals should be spelled correctly</Name>
+   <Description>This rule parses the literal string into words, tokenizing compound words, and checks the spelling of each word/token.</Description>
+   <Resolution Name="Default">Correct the spelling of the unrecognized token '{0}' in the literal '{1}'.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/bb264488.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014">
+   <Name>Mark assemblies with CLSCompliantAttribute</Name>
+   <Description>Assemblies should explicitly state their CLS compliance using the CLSCompliant attribute. An assembly without this attribute is not CLS-compliant. Assemblies, modules, and types can be CLS-compliant even if some parts of the assembly, module, or type are not CLS-compliant. The following rules apply: 1) If the element is marked CLSCompliant, any noncompliant members must have the CLSCompliant attribute present with its argument set to false. 2) A comparable CLS-compliant alternative member must be supplied for each member that is not CLS-compliant.</Description>
+   <Resolution Name="Default">Mark {0} with CLSCompliant(true) because it exposes externally visible types.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182156.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="designrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="MarkAssembliesWithNeutralResourcesLanguage" Category="Microsoft.Performance" CheckId="CA1824">
+   <Name>Mark assemblies with NeutralResourcesLanguageAttribute</Name>
+   <Description>The NeutralResourcesLanguage attribute informs the ResourceManager of the language used to render the neutral culture's resources for an assembly. When looking up resources in the same culture as the neutral resources language, the ResourceManager automatically uses the resources located in the main assembly, instead of searching for a satellite assembly with the current user interface culture for the current thread. This will improve lookup performance for the first resource you load and can reduce your working set.</Description>
+   <Resolution Name="Default">Because assembly {0} contains a ResX-based resource file, mark it with the NeutralResourcesLanguage attribute, specifying the language of the resources within the assembly. This could improve lookup performance the first time a resource is retrieved.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/bb385967.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="MarkAttributesWithAttributeUsage" Category="Microsoft.Design" CheckId="CA1018">
+   <Name>Mark attributes with AttributeUsageAttribute</Name>
+   <Description>The AttributeUsage attribute specifies the targets that are valid for the attribute (see System.AttributeTargets), whether an attribute can appear on a target more than once, and whether the attribute is inheritable.</Description>
+   <Resolution Name="Default">Specify AttributeUsage on {0}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182158.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error, Warning</MessageLevel>
+   <File Name="designrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="MarkISerializableTypesWithSerializable" Category="Microsoft.Usage" CheckId="CA2237">
+   <Name>Mark ISerializable types with SerializableAttribute</Name>
+   <Description>The System.Runtime.Serialization.ISerializable interface allows the type to customize its serialization, while the Serializable attribute enables the runtime to recognize the type as being serializable.</Description>
+   <Resolution Name="Default">Add [Serializable] to {0} as this type implements ISerializable.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182350.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="usagerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="MarkMembersAsStatic" Category="Microsoft.Performance" CheckId="CA1822">
+   <Name>Mark members as static</Name>
+   <Description>Methods which do not access instance data or call instance methods can be marked as static (Shared in Visual Basic). After doing so, the compiler will emit non-virtual call sites to these members which will prevent a check at runtime for each call that ensures the current object pointer is non-null. This can result in a measurable performance gain for performance-sensitive code. In some cases, the failure to access the current object instance represents a correctness issue.</Description>
+   <Resolution Name="Default">The 'this' parameter (or 'Me' in Visual Basic) of {0} is never used. Mark the member as static (or Shared in Visual Basic) or use 'this'/'Me' in the method body or at least one property accessor, if appropriate.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms245046.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="NestedTypesShouldNotBeVisible" Category="Microsoft.Design" CheckId="CA1034">
+   <Name>Nested types should not be visible</Name>
+   <Description>Do not use public, protected or protected internal (Protected Friend) nested types as a way of grouping types. Use namespaces for this purpose. There are very limited scenarios where nested types are the best design. Also, nested type member accessibility is not clearly understood by all audiences. Enumerators are exempt from this rule.</Description>
+   <Resolution Name="Default">Do not nest type {0}. Alternatively, change its accessibility so that it is not externally visible.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182162.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="90">Error</MessageLevel>
+   <File Name="designrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="OverrideEqualsAndOperatorEqualsOnValueTypes" Category="Microsoft.Performance" CheckId="CA1815">
+   <Name>Override equals and operator equals on value types</Name>
+   <Description>The default System.ValueType implementation might not perform as well as a custom implementation.</Description>
+   <Resolution Name="Equals">{0} should override Equals.</Resolution>
+   <Resolution Name="op_Equality">{0} should override the equality (==) and inequality (!=) operators.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182276.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="ParameterNamesShouldNotMatchMemberNames" Category="Microsoft.Naming" CheckId="CA1719">
+   <Name>Parameter names should not match member names</Name>
+   <Description>Parameter names should be distinct from member names.</Description>
+   <Resolution Name="Default">Change either member or parameter name {0} so that one differs from the other.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182252.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="namingrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="PreferJaggedArraysOverMultidimensional" Category="Microsoft.Performance" CheckId="CA1814">
+   <Name>Prefer jagged arrays over multidimensional</Name>
+   <Description>Multidimensional arrays can have a negative impact on performance. Use a jagged array if possible.</Description>
+   <Resolution Name="Body">{0} uses a multidimensional array of {1}. Replace it with a jagged array if possible.</Resolution>
+   <Resolution Name="Default">{0} is a multidimensional array. Replace it with a jagged array if possible.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182277.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="25">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="PropertiesShouldNotReturnArrays" Category="Microsoft.Performance" CheckId="CA1819">
+   <Name>Properties should not return arrays</Name>
+   <Description>Properties that return arrays are prone to code inefficiencies. Consider using a collection or making this a method. See the design guidelines for more information.</Description>
+   <Resolution Name="Default">Change {0} to return a collection or make it a method.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/0fss9skc.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="50">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="PropertyNamesShouldNotMatchGetMethods" Category="Microsoft.Naming" CheckId="CA1721">
+   <Name>Property names should not match get methods</Name>
+   <Description>A Get method was found with the same name as a property. Get methods and properties should have names that clearly distinguish their function. See the design guidelines for information regarding choosing properties over methods.</Description>
+   <Resolution Name="SameType">The property name {0} is confusing given the existence of method {1}. Rename or remove one of these members.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182253.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="namingrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="Provide correct arguments to formatting methods" Category="Microsoft.Usage" CheckId="CA2241">
+   <Name>Provide correct arguments to formatting methods</Name>
+   <Description>Provide the correct number of arguments to String.Format calls.</Description>
+   <Resolution Name="MissingFormatItem">Method {0} calls {1} and does not provide a format item for argument {2}. The provided format string is: '{3}'</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182361.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804">
+   <Name>Remove unused locals</Name>
+   <Description>Remove locals that are not used or are only assigned to in method implementations.</Description>
+   <Resolution Name="Default">{0} declares a variable, {1}, of type {2}, which is never used or is only assigned to. Use this variable or remove it.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182278.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="ReviewUnusedParameters" Category="Microsoft.Usage" CheckId="CA1801">
+   <Name>Review unused parameters</Name>
+   <Description>Review parameters in non-virtual methods that are not used in the method body to ensure no correctness exists around failure to access them. Unused parameters incur maintenance and performance costs. Sometimes a violation of this rule can point to an implementation bug in the method (i.e. the parameter should actually have been used in the method body). Exclude warnings of this rule if the parameter has to exist because of backward compatibility.</Description>
+   <Resolution Name="Default">Parameter {0} of {1} is never used. Remove the parameter or use it in the method body.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182268.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Warning</MessageLevel>
+   <File Name="usagerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="SpecifyCultureInfo" Category="Microsoft.Globalization" CheckId="CA1304">
+   <Name>Specify CultureInfo</Name>
+   <Description>If an overload exists that takes a CultureInfo argument, it should always be called in favor of an overload that does not. The CultureInfo type contains culture-specific information required for performing numeric and string operations, such as casing, formatting, and string comparisons. In scenarios where conversion and parsing behavior should never change between cultures, specify CultureInfo.InvariantCulture, otherwise, specify CultureInfo.CurrentCulture.</Description>
+   <Resolution Name="Default">Because the behavior of {0} could vary based on the current user's locale settings, replace this call in {1} with a call to {2}. If the result of {2} will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'CultureInfo' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182189.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="globalizationrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305">
+   <Name>Specify IFormatProvider</Name>
+   <Description>If an overload exists that takes an IFormatProvider argument, it should always be called in favor of an overload that does not. Some methods in the runtime convert a value to or from a string representation and take a string parameter that contains one or more characters, called format specifiers, which indicate how the value is to be converted. If the meaning of the format specifier varies by culture, a formatting object supplies the actual characters used in the string representation. In scenarios where sorting and comparison behavior should never change between cultures, specify CultureInfo.InvariantCulture, otherwise, specify CultureInfo.CurrentCulture.</Description>
+   <Resolution Name="IFormatProviderAlternate">Because the behavior of {0} could vary based on the current user's locale settings, replace this call in {1} with a call to {2}. If the result of {2} will be based on input from the user, specify {3} as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify {4}.</Resolution>
+   <Resolution Name="IFormatProviderAlternateString">Because the behavior of {0} could vary based on the current user's locale settings, replace this call in {1} with a call to {2}. If the result of {2} will be displayed to the user, specify {3} as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify {4}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182190.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="globalizationrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="TestForEmptyStringsUsingStringLength" Category="Microsoft.Performance" CheckId="CA1820">
+   <Name>Test for empty strings using string length</Name>
+   <Description>To test for empty strings, check if String.Length is equal to zero. Constructs such as "".Equals(someString) and String.Empty.Equals(someString) are less efficient than testing the string length. Replace these with checks for someString.Length == 0.</Description>
+   <Resolution Name="IsNullOrEmpty">Replace the call to {0} in {1} with a call to 'String.IsNullOrEmpty'.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182279.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="TypeNamesShouldNotMatchNamespaces" Category="Microsoft.Naming" CheckId="CA1724">
+   <Name>Type names should not match namespaces</Name>
+   <Description>Identifiers which conflict in whole or in part with namespace names should be avoided. Names that describe the purpose or contents of a type are preferred.</Description>
+   <Resolution Name="Default">The type name {0} conflicts in whole or in part with the namespace name '{1}'. Change either name to eliminate the conflict.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182257.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="namingrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="UsePropertiesWhereAppropriate" Category="Microsoft.Design" CheckId="CA1024">
+   <Name>Use properties where appropriate</Name>
+   <Description>Properties should be used instead of Get/Set methods in most situations. Methods are preferable to properties in the following situations: the operation is a conversion, is expensive or has an observable side-effect; the order of execution is important; calling the member twice in succession creates different results; a member is static but returns a mutable value; or the member returns an array.</Description>
+   <Resolution Name="Default">Change {0} to a property if appropriate.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182181.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="designrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="Validate arguments of public methods" Category="Microsoft.Design" CheckId="CA1062">
+   <Name>Validate arguments of public methods</Name>
+   <Description>All reference arguments passed to externally visible methods should be checked against null (Nothing in VB). If appropriate, throw a System.ArgumentNullException when the argument is null.</Description>
+   <Resolution Name="Default">In externally visible method {0}, validate parameter '{1}' before using it.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182182.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="VariableNamesShouldNotMatchFieldNames" Category="Microsoft.Maintainability" CheckId="CA1500">
+   <Name>Variable names should not match field names</Name>
+   <Description>Instance field and variable names should not be identical within the same scope.</Description>
+   <Resolution Name="Local">{0}, a variable declared in {1}, has the same name as an instance field on the type. Change the name of one of these items.</Resolution>
+   <Resolution Name="Parameter">{0}, a parameter declared in {1}, has the same name as an instance field on the type. Change the name of one of these items.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182216.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="maintainabilityrules.dll" Version="17.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Category</String>
+  <String Key="Certainty">Certainty</String>
+  <String Key="CollapseAll">Collapse All</String>
+  <String Key="CheckId">Check Id</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">error(s)</String>
+  <String Key="ExpandAll">Expand All</String>
+  <String Key="Help">Help</String>
+  <String Key="Line">Line</String>
+  <String Key="Messages">message(s)</String>
+  <String Key="LocationNotStoredInPdb">[Location not stored in Pdb]</String>
+  <String Key="Project">Project</String>
+  <String Key="Resolution">Resolution</String>
+  <String Key="Rule">Rule</String>
+  <String Key="RuleFile">Rule File</String>
+  <String Key="RuleDescription">Rule Description</String>
+  <String Key="Source">Source</String>
+  <String Key="Status">Status</String>
+  <String Key="Target">Target</String>
+  <String Key="Warning">Warning</String>
+  <String Key="Warnings">warning(s)</String>
+  <String Key="ReportTitle">Code Analysis Report</String>
+ </Localized>
+</FxCopReport>

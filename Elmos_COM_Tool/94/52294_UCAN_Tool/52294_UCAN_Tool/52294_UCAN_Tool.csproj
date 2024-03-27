@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BA9E3B97-39CD-46A7-B1C4-176CB911F837}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_52294_UCAN_Tool</RootNamespace>
+    <AssemblyName>52294_UCAN_Tool</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug_M52294A|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug_M52294A\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;M52294A</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release_M52294A|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release_M52294A\</OutputPath>
+    <DefineConstants>M52294A</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
+    <DocumentationFile>
+    </DocumentationFile>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug_E52294A|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug_E52294A\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;E52294A</DefineConstants>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release_E52294A|AnyCPU' ">
+    <OutputPath>bin\Release_E52294A\</OutputPath>
+    <DefineConstants>E52294A</DefineConstants>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+    <Optimize>true</Optimize>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="model\EvalBoardControl.cs" />
+    <Compile Include="view\AnimationHelpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\AnimationHelpForm.Designer.cs">
+      <DependentUpon>AnimationHelpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\DeviceTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="view\DeviceTab.Designer.cs">
+      <DependentUpon>DeviceTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\ExpertComSettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\ExpertComSettingsForm.Designer.cs">
+      <DependentUpon>ExpertComSettingsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\QuickProgForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\QuickProgForm.Designer.cs">
+      <DependentUpon>QuickProgForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="view\AnimationHelpForm.resx">
+      <DependentUpon>AnimationHelpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\DeviceTab.resx">
+      <DependentUpon>DeviceTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\ExpertComSettingsForm.resx">
+      <DependentUpon>ExpertComSettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\QuickProgForm.resx">
+      <DependentUpon>QuickProgForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\dll\FTD2XX_NET.dll">
+      <Link>FTD2XX_NET.dll</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\elmos-logo_rgb_standard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Device_52294_Lib\Device_52294_Lib.csproj">
+      <Project>{0fdd364f-98d0-44fd-b9b8-8cf49c585406}</Project>
+      <Name>Device_52294_Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ExtensionsLib\ExtensionsLib.csproj">
+      <Project>{23316493-5227-4fc4-9fae-dfe5ac3d7147}</Project>
+      <Name>ExtensionsLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FtdiLib\FtdiLib.csproj">
+      <Project>{1b301412-682a-4c70-bd38-3e81ef79347d}</Project>
+      <Name>FtdiLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MemLib\MemLib.csproj">
+      <Project>{d492884b-48ed-4319-967e-9946f08b3270}</Project>
+      <Name>MemLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UcanCommLib\UcanCommLib.csproj">
+      <Project>{b18361b8-ec2f-49c5-9c18-d9834e71e451}</Project>
+      <Name>UcanCommLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

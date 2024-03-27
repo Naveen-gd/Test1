@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52294_UCAN_Tool\\52294_UCAN_Tool.csproj|d:\\elmos_sourcecodeworkspace\\94\\52294_ucan_tool\\52294_ucan_tool\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52294_UCAN_Tool\\52294_UCAN_Tool.csproj|solutionrelative:52294_ucan_tool\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52294_UCAN_Tool\\52294_UCAN_Tool.csproj|D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_ucan_tool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52294_UCAN_Tool\\52294_UCAN_Tool.csproj|solutionrelative:52294_ucan_tool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52294_UCAN_Tool\\52294_UCAN_Tool.csproj|D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_ucan_tool\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52294_UCAN_Tool\\52294_UCAN_Tool.csproj|solutionrelative:52294_ucan_tool\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B301412-682A-4C70-BD38-3E81EF79347D}|FtdiLib\\FtdiLib.csproj|D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\ftdilib\\model\\ftdibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B301412-682A-4C70-BD38-3E81EF79347D}|FtdiLib\\FtdiLib.csproj|solutionrelative:ftdilib\\model\\ftdibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52294_UCAN_Tool\\52294_UCAN_Tool.csproj|D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_ucan_tool\\model\\evalboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52294_UCAN_Tool\\52294_UCAN_Tool.csproj|solutionrelative:52294_ucan_tool\\model\\evalboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|52294_Socket_Master||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52294_UCAN_Tool\\52294_UCAN_Tool.csproj|D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_ucan_tool\\view\\animationhelpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52294_UCAN_Tool\\52294_UCAN_Tool.csproj|solutionrelative:52294_ucan_tool\\view\\animationhelpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52294_UCAN_Tool\\52294_UCAN_Tool.csproj|D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_ucan_tool\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52294_UCAN_Tool\\52294_UCAN_Tool.csproj|solutionrelative:52294_ucan_tool\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52294_UCAN_Tool\\52294_UCAN_Tool.csproj|D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_ucan_tool\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52294_UCAN_Tool\\52294_UCAN_Tool.csproj|solutionrelative:52294_ucan_tool\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52294_UCAN_Tool\\52294_UCAN_Tool.csproj|D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_ucan_tool\\view\\devicetab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52294_UCAN_Tool\\52294_UCAN_Tool.csproj|solutionrelative:52294_ucan_tool\\view\\devicetab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52294_UCAN_Tool\\52294_UCAN_Tool.csproj|D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_ucan_tool\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6D58D02C-377A-4C51-8508-8C2E09D41ADF}|52294_UCAN_Tool\\52294_UCAN_Tool.csproj|solutionrelative:52294_ucan_tool\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FtdiBase.cs",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\FtdiLib\\model\\FtdiBase.cs",
+              "RelativeDocumentMoniker": "FtdiLib\\model\\FtdiBase.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\FtdiLib\\model\\FtdiBase.cs",
+              "RelativeToolTip": "FtdiLib\\model\\FtdiBase.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:10:00.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EvalBoardControl.cs",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_UCAN_Tool\\model\\EvalBoardControl.cs",
+              "RelativeDocumentMoniker": "52294_UCAN_Tool\\model\\EvalBoardControl.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_UCAN_Tool\\model\\EvalBoardControl.cs",
+              "RelativeToolTip": "52294_UCAN_Tool\\model\\EvalBoardControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:35:18.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "52294_Socket_Master",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_Socket_Master\\52294_Socket_Master.csproj",
+              "RelativeDocumentMoniker": "52294_Socket_Master\\52294_Socket_Master.csproj",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_Socket_Master\\52294_Socket_Master.csproj",
+              "RelativeToolTip": "52294_Socket_Master\\52294_Socket_Master.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-11T07:05:09.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_UCAN_Tool\\view\\MainForm.cs",
+              "RelativeDocumentMoniker": "52294_UCAN_Tool\\view\\MainForm.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_UCAN_Tool\\view\\MainForm.cs",
+              "RelativeToolTip": "52294_UCAN_Tool\\view\\MainForm.cs",
+              "ViewState": "AQIAAAQCAAAAAAAAAAAAAAkCAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:46:43.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_UCAN_Tool\\Program.cs",
+              "RelativeDocumentMoniker": "52294_UCAN_Tool\\Program.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_UCAN_Tool\\Program.cs",
+              "RelativeToolTip": "52294_UCAN_Tool\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:25:10.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeviceTab.cs [Design]",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_UCAN_Tool\\view\\DeviceTab.cs",
+              "RelativeDocumentMoniker": "52294_UCAN_Tool\\view\\DeviceTab.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_UCAN_Tool\\view\\DeviceTab.cs [Design]",
+              "RelativeToolTip": "52294_UCAN_Tool\\view\\DeviceTab.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:24:45.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_UCAN_Tool\\view\\MainForm.cs",
+              "RelativeDocumentMoniker": "52294_UCAN_Tool\\view\\MainForm.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_UCAN_Tool\\view\\MainForm.cs [Design]",
+              "RelativeToolTip": "52294_UCAN_Tool\\view\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:24:24.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_UCAN_Tool\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "52294_UCAN_Tool\\Properties\\Settings.settings",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_UCAN_Tool\\Properties\\Settings.settings",
+              "RelativeToolTip": "52294_UCAN_Tool\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-03-08T11:25:29.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_UCAN_Tool\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "52294_UCAN_Tool\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_UCAN_Tool\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "52294_UCAN_Tool\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:25:31.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnimationHelpForm.cs",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_UCAN_Tool\\view\\AnimationHelpForm.cs",
+              "RelativeDocumentMoniker": "52294_UCAN_Tool\\view\\AnimationHelpForm.cs",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_UCAN_Tool\\view\\AnimationHelpForm.cs",
+              "RelativeToolTip": "52294_UCAN_Tool\\view\\AnimationHelpForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T04:45:28.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_UCAN_Tool\\App.config",
+              "RelativeDocumentMoniker": "52294_UCAN_Tool\\App.config",
+              "ToolTip": "D:\\Elmos_SourceCodeWorkspace\\94\\52294_UCAN_Tool\\52294_UCAN_Tool\\App.config",
+              "RelativeToolTip": "52294_UCAN_Tool\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-08T11:24:02.088Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

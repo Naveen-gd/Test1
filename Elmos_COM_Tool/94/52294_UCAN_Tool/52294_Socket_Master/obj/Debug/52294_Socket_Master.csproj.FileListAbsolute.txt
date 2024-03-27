@@ -1,0 +1,69 @@
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\FTD2XX_NET.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\commands_V7.pdf
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\52294_Socket_Master.dll.config
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\52294_Socket_Master.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\52294_Socket_Master.pdb
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\Device_52294_Lib.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\ExtensionsLib.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\FtdiLib.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\UcanCommLib.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\MemLib.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\Device_52294_Lib.pdb
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\ExtensionsLib.pdb
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\FtdiLib.pdb
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\UcanCommLib.pdb
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\MemLib.pdb
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\52294_Socket_Master.csproj.AssemblyReference.cache
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\_52294_Socket_Master.Properties.Resources.resources
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\_52294_Socket_Master.MainForm.resources
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\52294_Socket_Master.csproj.GenerateResource.cache
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\52294_Socket_Master.csproj.CoreCompileInputs.cache
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\52294_So.D6CEE7AF.Up2Date
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\52294_Socket_Master.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\52294_Socket_Master.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\FTD2XX_NET.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\commands_V7.pdf
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\52294_Socket_Master.dll.config
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\52294_Socket_Master.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\52294_Socket_Master.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\Device_52294_Lib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\ExtensionsLib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\FtdiLib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\UcanCommLib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\MemLib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\Device_52294_Lib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\ExtensionsLib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\FtdiLib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\UcanCommLib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\MemLib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\52294_Socket_Master.csproj.AssemblyReference.cache
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\_52294_Socket_Master.Properties.Resources.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\_52294_Socket_Master.MainForm.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\52294_Socket_Master.csproj.GenerateResource.cache
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\52294_Socket_Master.csproj.CoreCompileInputs.cache
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\52294_So.D6CEE7AF.Up2Date
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\52294_Socket_Master.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\52294_Socket_Master.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\FTD2XX_NET.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\commands_V7.pdf
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\52294_Socket_Master.dll.config
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\52294_Socket_Master.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\52294_Socket_Master.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\Device_52294_Lib.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\ExtensionsLib.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\FtdiLib.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\UcanCommLib.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\MemLib.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\Device_52294_Lib.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\ExtensionsLib.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\FtdiLib.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\UcanCommLib.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\bin\Debug\MemLib.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\52294_Socket_Master.csproj.AssemblyReference.cache
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\_52294_Socket_Master.Properties.Resources.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\_52294_Socket_Master.MainForm.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\52294_Socket_Master.csproj.GenerateResource.cache
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\52294_Socket_Master.csproj.CoreCompileInputs.cache
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\52294_So.D6CEE7AF.Up2Date
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\52294_Socket_Master.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_Socket_Master\obj\Debug\52294_Socket_Master.pdb

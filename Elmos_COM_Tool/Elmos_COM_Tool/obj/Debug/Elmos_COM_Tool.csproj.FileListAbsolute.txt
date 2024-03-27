@@ -1,0 +1,118 @@
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\FTD2XX_NET.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\vxlapi_NET.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Elmos_COM_Tool.exe.config
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Elmos_COM_Tool.exe
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Elmos_COM_Tool.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\52295_CAN_Tool.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Device_52295_Lib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\EntityFramework.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\EntityFramework.SqlServer.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\System.Data.SQLite.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Microsoft.Scripting.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\IronPython.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Newtonsoft.Json.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Can_Comm_Lib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Device_52294_Lib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\MemLib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\ExtensionsLib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\UcanCommLib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\FtdiLib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Microsoft.Dynamic.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\PCANBasic_NET.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\ELMOS 521.38 UART Eval.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\ELMOS 521.38 UART Eval.dll.config
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Device_52295_Lib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\52294_UCAN_Tool.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\52294_UCAN_Tool.dll.config
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\52295_CAN_Tool.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\52295_CAN_Tool.dll.config
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\EntityFramework.xml
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\EntityFramework.SqlServer.xml
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\System.Data.SQLite.xml
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Microsoft.Scripting.xml
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\IronPython.xml
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Newtonsoft.Json.xml
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Can_Comm_Lib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Device_52294_Lib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\MemLib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\ExtensionsLib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\UcanCommLib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\FtdiLib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Microsoft.Dynamic.xml
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\PCANBasic_NET.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_COM_Tool.csproj.AssemblyReference.cache
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_COM_Tool.ComTool.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_COM_Tool.Properties.Resources.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_COM_Tool.csproj.GenerateResource.cache
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_COM_Tool.csproj.CoreCompileInputs.cache
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_CO.746228E5.Up2Date
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_COM_Tool.exe
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_COM_Tool.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\IronPython.Modules.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\IronPython.Modules.xml
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\ELMOS 521.38 UART Eval.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_COM_Tool.ComportComm.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\System.CodeDom.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\System.CodeDom.xml
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\52294_UCAN_Tool.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Elmos_COM_Tool.exe.config
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Elmos_COM_Tool.exe
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Elmos_COM_Tool.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\52294_UCAN_Tool.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\52295_CAN_Tool.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Device_52295_Lib.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\ELMOS 521.38 UART Eval.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\EntityFramework.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\EntityFramework.SqlServer.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\IronPython.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\IronPython.Modules.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Microsoft.Dynamic.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Microsoft.Scripting.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Newtonsoft.Json.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\System.CodeDom.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\System.Data.SQLite.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Device_52294_Lib.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\MemLib.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\ExtensionsLib.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\UcanCommLib.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\FtdiLib.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Can_Comm_Lib.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\FTD2XX_NET.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\PCANBasic_NET.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\vxlapi_NET.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\52294_UCAN_Tool.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\52294_UCAN_Tool.dll.config
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\52295_CAN_Tool.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\52295_CAN_Tool.dll.config
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Device_52295_Lib.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\ELMOS 521.38 UART Eval.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\ELMOS 521.38 UART Eval.dll.config
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\EntityFramework.xml
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\EntityFramework.SqlServer.xml
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\System.CodeDom.xml
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\System.Data.SQLite.xml
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Device_52294_Lib.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\MemLib.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\ExtensionsLib.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\UcanCommLib.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\FtdiLib.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\Can_Comm_Lib.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\bin\Debug\PCANBasic_NET.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_COM_Tool.csproj.AssemblyReference.cache
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_COM_Tool.csproj.SuggestedBindingRedirects.cache
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_COM_Tool.exe.config
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_COM_Tool.ComportComm.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_COM_Tool.ComTool.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_COM_Tool.Properties.Resources.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_COM_Tool.csproj.GenerateResource.cache
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_COM_Tool.csproj.CoreCompileInputs.cache
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_CO.746228E5.Up2Date
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_COM_Tool.exe
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\Elmos_COM_Tool\obj\Debug\Elmos_COM_Tool.pdb

@@ -1,0 +1,177 @@
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\abc.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\macholib\dyld.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\macholib\dylib.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\macholib\framework.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\macholib\__init__.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\DiffUARTAPI\diffUARTapi.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\DiffUARTAPI\DiffUARTLibDLL.dll
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\e52138.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\genericpath.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\linecache.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ntpath.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\os.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\stat.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\struct.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\types.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\UserDict.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\warnings.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\_abcoll.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\_weakrefset.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\util.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\wintypes.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\_endian.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\__init__.py
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\ELMOS 521.38 UART Eval.pdb
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\IronPython.dll
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\IronPython.Modules.dll
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Microsoft.Dynamic.dll
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Microsoft.Scripting.dll
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Newtonsoft.Json.dll
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\IronPython.xml
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\IronPython.Modules.xml
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Microsoft.Dynamic.xml
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Microsoft.Scripting.xml
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Newtonsoft.Json.xml
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS 521.38 UART Eval.csproj.AssemblyReference.cache
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.AutoAddressing.resources
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.AddDevice.resources
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.ChipAccess.resources
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.ColorPicker.resources
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.DeviceTabPanel.resources
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.Command.resources
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.General.resources
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.LEDAccess.resources
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.PatchMatrixForm.resources
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.FormInfo.resources
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.FormMain.resources
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.Properties.Resources.resources
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS 521.38 UART Eval.csproj.GenerateResource.cache
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS 521.38 UART Eval.csproj.CoreCompileInputs.cache
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS 52.4C1BEB06.Up2Date
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS 521.38 UART Eval.pdb
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\ELMOS 521.38 UART Eval.dll.config
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\ELMOS 521.38 UART Eval.dll
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\ELMOS 521.38 UART Eval.dll.CodeAnalysisLog.xml
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\ELMOS 521.38 UART Eval.dll.lastcodeanalysissucceeded
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS 521.38 UART Eval.dll
+D:\Elmos_SourceCodeWorkspace\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\_52294_UCAN_Tool.view.ExpertComSettingsForm.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\abc.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\macholib\dyld.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\macholib\dylib.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\macholib\framework.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\macholib\__init__.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\DiffUARTAPI\diffUARTapi.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\DiffUARTAPI\DiffUARTLibDLL.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\e52138.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\genericpath.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\linecache.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ntpath.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\os.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\stat.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\struct.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\types.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\UserDict.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\warnings.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\_abcoll.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\_weakrefset.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\util.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\wintypes.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\_endian.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\__init__.py
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\ELMOS 521.38 UART Eval.dll.config
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\ELMOS 521.38 UART Eval.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\ELMOS 521.38 UART Eval.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\ELMOS 521.38 UART Eval.dll.CodeAnalysisLog.xml
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\ELMOS 521.38 UART Eval.dll.lastcodeanalysissucceeded
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\IronPython.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\IronPython.Modules.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Microsoft.Dynamic.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Microsoft.Scripting.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Newtonsoft.Json.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\IronPython.xml
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\IronPython.Modules.xml
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Microsoft.Dynamic.xml
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Microsoft.Scripting.xml
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Newtonsoft.Json.xml
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS 521.38 UART Eval.csproj.AssemblyReference.cache
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.AutoAddressing.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.AddDevice.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.ChipAccess.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.ColorPicker.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.DeviceTabPanel.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.Command.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.General.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.LEDAccess.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.PatchMatrixForm.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\_52294_UCAN_Tool.view.ExpertComSettingsForm.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.FormInfo.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.FormMain.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.Properties.Resources.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS 521.38 UART Eval.csproj.GenerateResource.cache
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS 521.38 UART Eval.csproj.CoreCompileInputs.cache
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS 52.4C1BEB06.Up2Date
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS 521.38 UART Eval.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS 521.38 UART Eval.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\abc.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\macholib\dyld.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\macholib\dylib.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\macholib\framework.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\macholib\__init__.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\DiffUARTAPI\diffUARTapi.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\DiffUARTAPI\DiffUARTLibDLL.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\e52138.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\genericpath.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\linecache.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ntpath.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\os.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\stat.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\struct.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\types.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\UserDict.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\warnings.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\_abcoll.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\_weakrefset.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\util.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\wintypes.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\_endian.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Lib\ctypes\__init__.py
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\ELMOS 521.38 UART Eval.dll.config
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\ELMOS 521.38 UART Eval.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\ELMOS 521.38 UART Eval.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\ELMOS 521.38 UART Eval.dll.CodeAnalysisLog.xml
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\ELMOS 521.38 UART Eval.dll.lastcodeanalysissucceeded
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\IronPython.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\IronPython.Modules.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Microsoft.Dynamic.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Microsoft.Scripting.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Newtonsoft.Json.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\IronPython.xml
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\IronPython.Modules.xml
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Microsoft.Dynamic.xml
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Microsoft.Scripting.xml
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\bin\Debug\Newtonsoft.Json.xml
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS 521.38 UART Eval.csproj.AssemblyReference.cache
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.AutoAddressing.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.AddDevice.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.ChipAccess.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.ColorPicker.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.DeviceTabPanel.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.Command.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.General.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.LEDAccess.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.DeviceTabPanel.PatchMatrixForm.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\_52294_UCAN_Tool.view.ExpertComSettingsForm.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.FormInfo.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.FormMain.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS_521._38_UART_Eval.Properties.Resources.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS 521.38 UART Eval.csproj.GenerateResource.cache
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS 521.38 UART Eval.csproj.CoreCompileInputs.cache
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS 52.4C1BEB06.Up2Date
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS 521.38 UART Eval.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\E52138 eval_tool_R_123\eval_tool_123\ELMOS 521.38 UART Eval\obj\Debug\ELMOS 521.38 UART Eval.pdb

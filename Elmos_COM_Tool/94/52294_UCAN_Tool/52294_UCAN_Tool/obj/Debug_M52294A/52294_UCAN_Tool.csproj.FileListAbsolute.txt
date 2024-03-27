@@ -1,0 +1,78 @@
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\FTD2XX_NET.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\52294_UCAN_Tool.dll.config
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\52294_UCAN_Tool.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\52294_UCAN_Tool.pdb
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\Device_52294_Lib.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\ExtensionsLib.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\FtdiLib.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\MemLib.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\UcanCommLib.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\Device_52294_Lib.pdb
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\ExtensionsLib.pdb
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\FtdiLib.pdb
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\MemLib.pdb
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\UcanCommLib.pdb
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\52294_UCAN_Tool.csproj.AssemblyReference.cache
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\_52294_UCAN_Tool.Properties.Resources.resources
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\_52294_UCAN_Tool.AnimationHelpForm.resources
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\_52294_UCAN_Tool.DeviceTab.resources
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\_52294_UCAN_Tool.view.ExpertComSettingsForm.resources
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\_52294_UCAN_Tool.MainForm.resources
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\_52294_UCAN_Tool.QuickProgForm.resources
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\52294_UCAN_Tool.csproj.GenerateResource.cache
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\52294_UCAN_Tool.csproj.CoreCompileInputs.cache
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\52294_UC.3751FBD3.Up2Date
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\52294_UCAN_Tool.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\52294_UCAN_Tool.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\FTD2XX_NET.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\52294_UCAN_Tool.dll.config
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\52294_UCAN_Tool.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\52294_UCAN_Tool.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\Device_52294_Lib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\ExtensionsLib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\FtdiLib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\MemLib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\UcanCommLib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\Device_52294_Lib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\ExtensionsLib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\FtdiLib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\MemLib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\UcanCommLib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\52294_UCAN_Tool.csproj.AssemblyReference.cache
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\_52294_UCAN_Tool.Properties.Resources.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\_52294_UCAN_Tool.AnimationHelpForm.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\_52294_UCAN_Tool.DeviceTab.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\_52294_UCAN_Tool.view.ExpertComSettingsForm.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\_52294_UCAN_Tool.MainForm.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\_52294_UCAN_Tool.QuickProgForm.resources
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\52294_UCAN_Tool.csproj.GenerateResource.cache
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\52294_UCAN_Tool.csproj.CoreCompileInputs.cache
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\52294_UC.3751FBD3.Up2Date
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\52294_UCAN_Tool.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\52294_UCAN_Tool.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\FTD2XX_NET.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\52294_UCAN_Tool.dll.config
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\52294_UCAN_Tool.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\52294_UCAN_Tool.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\Device_52294_Lib.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\ExtensionsLib.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\FtdiLib.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\MemLib.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\UcanCommLib.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\Device_52294_Lib.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\ExtensionsLib.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\FtdiLib.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\MemLib.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\bin\Debug_M52294A\UcanCommLib.pdb
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\52294_UCAN_Tool.csproj.AssemblyReference.cache
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\_52294_UCAN_Tool.Properties.Resources.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\_52294_UCAN_Tool.AnimationHelpForm.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\_52294_UCAN_Tool.DeviceTab.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\_52294_UCAN_Tool.view.ExpertComSettingsForm.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\_52294_UCAN_Tool.MainForm.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\_52294_UCAN_Tool.QuickProgForm.resources
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\52294_UCAN_Tool.csproj.GenerateResource.cache
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\52294_UCAN_Tool.csproj.CoreCompileInputs.cache
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\52294_UC.3751FBD3.Up2Date
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\52294_UCAN_Tool.dll
+D:\Elmos_SourceCodeWorkspace\GIT_Repos_Docs\comtool-internal\02. Source Code\Elmos_COM_Tool\94\52294_UCAN_Tool\52294_UCAN_Tool\obj\Debug_M52294A\52294_UCAN_Tool.pdb

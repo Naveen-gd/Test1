@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="Regeln für ELMOS 521.38 UART Eval" Description="Codeanalyseregeln für ELMOS 521.38 UART Eval.csproj." ToolsVersion="15.0">
+  <IncludeAll Action="Warning" />
+  <Rules AnalyzerId="Microsoft.Analyzers.ManagedCodeAnalysis" RuleNamespace="Microsoft.Rules.Managed">
+    <Rule Id="CA1026" Action="None" />
+    <Rule Id="CA1051" Action="None" />
+    <Rule Id="CA1300" Action="None" />
+    <Rule Id="CA1303" Action="None" />
+    <Rule Id="CA1307" Action="None" />
+    <Rule Id="CA1704" Action="None" />
+    <Rule Id="CA1707" Action="None" />
+    <Rule Id="CA1708" Action="None" />
+    <Rule Id="CA1709" Action="None" />
+    <Rule Id="CA1710" Action="None" />
+    <Rule Id="CA1711" Action="None" />
+    <Rule Id="CA1726" Action="None" />
+  </Rules>
+</RuleSet>

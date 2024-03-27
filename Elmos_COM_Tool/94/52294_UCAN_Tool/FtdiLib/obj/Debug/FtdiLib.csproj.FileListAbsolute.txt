@@ -1,0 +1,16 @@
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\FtdiLib\bin\Debug\FtdiLib.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\FtdiLib\bin\Debug\FtdiLib.pdb
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\FtdiLib\bin\Debug\FTD2XX_NET.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\FtdiLib\obj\Debug\FtdiLib.csproj.AssemblyReference.cache
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\FtdiLib\obj\Debug\FtdiLib.csproj.CoreCompileInputs.cache
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\FtdiLib\obj\Debug\FtdiLib.csproj.Up2Date
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\FtdiLib\obj\Debug\FtdiLib.dll
+D:\Elmos_SourceCodeWorkspace\94\52294_UCAN_Tool\FtdiLib\obj\Debug\FtdiLib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\FtdiLib\bin\Debug\FtdiLib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\FtdiLib\bin\Debug\FtdiLib.pdb
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\FtdiLib\bin\Debug\FTD2XX_NET.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\FtdiLib\obj\Debug\FtdiLib.csproj.AssemblyReference.cache
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\FtdiLib\obj\Debug\FtdiLib.csproj.CoreCompileInputs.cache
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\FtdiLib\obj\Debug\FtdiLib.csproj.Up2Date
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\FtdiLib\obj\Debug\FtdiLib.dll
+D:\Elmos_SourceCodeWorkspace\Repos\Elmos_COM_Tool\94\52294_UCAN_Tool\FtdiLib\obj\Debug\FtdiLib.pdb

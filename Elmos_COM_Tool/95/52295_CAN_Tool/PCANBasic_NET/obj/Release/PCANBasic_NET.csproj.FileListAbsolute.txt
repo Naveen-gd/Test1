@@ -1,0 +1,6 @@
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\PCANBasic_NET\bin\Release\PCANBasic_NET.dll
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\PCANBasic_NET\bin\Release\PCANBasic_NET.pdb
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\PCANBasic_NET\obj\Release\PCANBasic_NET.csproj.AssemblyReference.cache
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\PCANBasic_NET\obj\Release\PCANBasic_NET.csproj.CoreCompileInputs.cache
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\PCANBasic_NET\obj\Release\PCANBasic_NET.dll
+D:\Elmos_SourceCodeWorkspace\95\52295_CAN_Tool\PCANBasic_NET\obj\Release\PCANBasic_NET.pdb

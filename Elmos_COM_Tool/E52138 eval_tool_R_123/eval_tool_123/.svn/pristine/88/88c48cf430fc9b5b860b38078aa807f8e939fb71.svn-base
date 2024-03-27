@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ELMOS_521._38_UART_Eval.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Channels" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">18</Value>
+    </Setting>
+    <Setting Name="StandardChannels" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

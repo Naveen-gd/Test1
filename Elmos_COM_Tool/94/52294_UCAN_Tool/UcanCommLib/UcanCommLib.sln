@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UcanCommLib", "UcanCommLib.csproj", "{59B480AD-7D28-4C92-85A3-62D98F791FDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B480AD-7D28-4C92-85A3-62D98F791FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B480AD-7D28-4C92-85A3-62D98F791FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B480AD-7D28-4C92-85A3-62D98F791FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B480AD-7D28-4C92-85A3-62D98F791FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {668429D6-2FBE-495E-AD9E-C65326C9ABD1}
+	EndGlobalSection
+EndGlobal
